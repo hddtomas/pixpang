@@ -1,4 +1,5 @@
 ![](https://img.shields.io/github/downloads/tomiiiiiiiii/pixpang/total) ![](https://img.shields.io/github/last-commit/tomiiiiiiiii/pixpang) ![](https://img.shields.io/github/release-date/tomiiiiiiiii/pixpang)
+
 Bienvenido al repositorio sobre el juego PiX Pang!
 
 En este repositorio, lo que hare es acumular versiones y información del juego.
