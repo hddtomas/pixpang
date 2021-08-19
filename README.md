@@ -20,3 +20,9 @@ No tiene tantos bugs afortunadamente, pero si tiene algunos que requieren que re
 
 Cabe aclarar que en Windows Vista, 7 y 10 no funciona, ni con el uso de la opción de compatiblidad.
 Lo que recomiendo hacer es montar una máquina virtual en VMWare Workstation, después instalarlo y todo eso es trabajo tuyo :)
+
+# PiX Pang 1.6 Beta
+Esta es la versión mas vieja que encontre hasta la fecha, por el momento es **INJUGABLE** debido a que no hay ninguna compilación, o esta corrupta.
+Todos los intentos de compilación han fallado.
+
+Lo interesante de esta versión son los fondos y la música, que por cierto es muy distinta.
