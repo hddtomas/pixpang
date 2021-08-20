@@ -27,6 +27,6 @@ Por el momento es **INJUGABLE** debido que al intentar compilar el juego, sale e
 
 Lo interesante de esta versión son los fondos y la música, que por cierto es muy distinta.
 
-# PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.
+# PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.6
 **Para correr esta versión necesitas Windows XP, como en la 2.0**
 Supongo que es una versión vieja y no un juego extra, ya que esta muy poco desarrollado, además tiene sprites y sonidos de Super Pang, también hay fondos de la 1.6
