@@ -24,3 +24,10 @@ El mismo nombre lo dice, lo unico que puedo decir es que es muy poco intuitivo, 
 
 # Jugar por LAN
 Aunque panreyes haya puesto que se agrego para jugar en la red, no hay ninguna forma de activar esto. 
+
+# Bugs de la 2.0
+Aquí una lista de bugs en la 2.0 que yo conozco.
+
+1. En el modo aventura, cuando se pasa de nivel, algunos fondos se saltan. (No se puede arreglar)
+2. Hay bugs de gráficos al cambiar de ventanas, no se si esto es un bug de VMWare Workstation (muy probable) o del juego. (Requiere un reinicio del juego para arreglar)
+3. Al elegir al segundo jugador como la computadora, si iniciamos una partida, salimos y elegimos que no queremos ningun segundo jugador, al iniciar otra partida, se escuchara el sonido de disparo infinitamente. (Requiere reinicio del juego para arreglar)
