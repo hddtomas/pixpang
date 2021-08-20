@@ -25,9 +25,11 @@ Lo que recomiendo hacer es montar una máquina virtual en VMWare Workstation, de
 # PiX Pang 1.6 Beta
 Por el momento es **INJUGABLE** debido que al intentar compilar el juego, sale el error "Cannot load library", supongo que la libreria "image" simplemente no existe o algo por el estilo.
 
+**Para correr esta versión necesitas Windows XP, si es que se puede llegar a compilar y arreglar**
+
 Lo interesante de esta versión son los fondos y la música, que por cierto es muy distinta.
 
 # PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.6
 **Para correr esta versión necesitas Windows XP, como en la 2.0**
 
-Supongo que es una versión vieja y no un juego extra, ya que esta muy poco desarrollado, además tiene sprites y sonidos de Super Pang, también hay fondos de la 1.6
+Supongo que es una versión vieja y no un juego extra, ya que está muy poco desarrollado, además tiene sprites y sonidos de Super Pang, también hay fondos de la 1.6
