@@ -22,7 +22,6 @@ Cabe aclarar que en Windows Vista, 7 y 10 no funciona, ni con el uso de la opci�
 Lo que recomiendo hacer es montar una máquina virtual en VMWare Workstation, después instalarlo y todo eso es trabajo tuyo :)
 
 # PiX Pang 1.6 Beta
-Esta es la versión mas vieja que encontre hasta la fecha, por el momento es **INJUGABLE** debido a que no hay ninguna compilación, o esta corrupta.
-Todos los intentos de compilación han fallado.
+Esta es la versión mas vieja que encontre hasta la fecha, por el momento es **INJUGABLE** debido que al intentar compilar el juego, sale el error "Cannot load library", supongo que la libreria "image" simplemente no carga.
 
 Lo interesante de esta versión son los fondos y la música, que por cierto es muy distinta.
