@@ -30,6 +30,11 @@ El mismo nombre lo dice, lo unico que puedo decir es que es muy poco intuitivo, 
 Aunque panreyes haya puesto que se agrego para jugar en la red, no hay ninguna forma de activar esto. 
 Si quieres jugar con otra persona, solo necesitas que este en tu misma casa y use un ratón, o conecte un joystick y use un programa para hacerlo funcionar.
 
+# Bugs de la 2.1
+1. El primer bug de la 2.0 sigue pasando, solo que esta vez es muy raro que pase. (No se puede arreglar)
+2. Salir de la ventana con la tecla **Windows** hara que el mouse se bugee. Esto no pasa en la 2.0 (Para arreglarlo, presiona **Ctrl + Alt + Supr**, clickea en administrador de tareas y termina el proceso BennuGD, si quieres que esto no pase mas, juega en modo ventana)
+3. Al cargar una partida, el score y las vidas se resetean, en el caso del score, se resetea a 0, y las vidas se resetean a 10. Puedes aprovechar este bug para no perder en las partidas.
+
 # Bugs de la 2.0
 Aquí una lista de bugs en la 2.0 que yo conozco.
 
