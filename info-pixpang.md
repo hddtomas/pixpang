@@ -30,6 +30,8 @@ El mismo nombre lo dice, lo unico que puedo decir es que es muy poco intuitivo, 
 Aunque panreyes haya puesto que se agrego para jugar en la red, no hay ninguna forma de activar esto. 
 Si quieres jugar con otra persona, solo necesitas que este en tu misma casa y use un ratón, o conecte un joystick y use un programa para hacerlo funcionar.
 
+Por el momento es imposible jugar a travez de LAN o red, esto requiere cambiar el código fuente del juego.
+
 # Bugs de la 2.1
 1. El primer bug de la 2.0 sigue pasando, solo que esta vez es muy raro que pase. (No se puede arreglar)
 2. Salir de la ventana con la tecla **Windows** hara que el mouse se bugee. Esto no pasa en la 2.0 (Para arreglarlo, presiona **Ctrl + Alt + Supr**, clickea en administrador de tareas y termina el proceso BennuGD, si quieres que esto no pase mas, juega en modo ventana)
