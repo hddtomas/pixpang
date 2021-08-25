@@ -39,6 +39,14 @@ Si alguien llega a hacer esto, pues, aquí una lista de mejoras:
 3. Arreglar los bugs de la 2.1, claro.
 4. ¿Multijugador LAN? Seria cool, pero no se si BennuGD permite eso.
 
+# Notas de los desarrolladores para cambiar el juego (2007)
+- Para cambiar los fondos simplemente sustituir los fondos de la carpeta fondos, podéis mirar la resolución de los fondos en los fondos mismos.
+- Para cambiar los gráficos del juego ya tendréis que utilizar una herramienta de Fénix, llamada FPG Edit y ya buscaros la vida para sustituir los gráficos de los ficheros FPG en la carpeta FPG. No es muy complicado, simplemente conocerlo un poco. Luego hay algún que otro gráfico en la carpeta cosas.
+- Para cambiar las músicas están en la carpeta cd-ogg. Necesitaréis convertir las músicas (wav,mp3,wma,...) al formato OGG, os recomiendo dbPowerAmp.
+- Para cambiar los niveles que hay actualmente tenéis que utilizar el editor de niveles integrado en PiX Pang. Los niveles los guarda en la carpeta pantallas, pero luego podéis coger esos mismos niveles y sustituir los de la carpeta tour.
+- Para cambiar los sonidos, están en la carpeta wav.
+- Y para cambiar el juego directamente tenéis el código fuente en la carpeta src.
+
 # Bugs de la 2.1
 1. El primer bug de la 2.0 sigue pasando, solo que esta vez es muy raro que pase. (No se puede arreglar)
 2. Salir de la ventana con la tecla **Windows** hara que el mouse se bugee. Esto no pasa en la 2.0 (Para arreglarlo, presiona **Ctrl + Alt + Supr**, clickea en administrador de tareas y termina el proceso BennuGD, si quieres que esto no pase mas, juega en modo ventana)
