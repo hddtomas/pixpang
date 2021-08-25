@@ -32,10 +32,17 @@ Si quieres jugar con otra persona, solo necesitas que este en tu misma casa y us
 
 Por el momento es imposible jugar a travez de LAN o red, esto requiere cambiar el código fuente del juego.
 
+# Mejoras para alguna modificación de PiX Pang
+Si alguien llega a hacer esto, pues, aquí una lista de mejoras:
+1. ¡Mas fondos y niveles! Seria muy cool la verdad, porque por el momento el juego es muy corto, y los modos extra solo añaden unos minutos extra de juego, con el tema de los fondos, que tengan la misma estetica que usa el juego xD.
+2. Editor de niveles, aunque esto existe en la 2.0 (pero no en la 2.1), es muy poco intuitivo y además no se puede cambiar de fondo.
+3. Arreglar los bugs de la 2.1, claro.
+4. ¿Multijugador LAN? Seria cool, pero no se si BennuGD permite eso.
+
 # Bugs de la 2.1
 1. El primer bug de la 2.0 sigue pasando, solo que esta vez es muy raro que pase. (No se puede arreglar)
 2. Salir de la ventana con la tecla **Windows** hara que el mouse se bugee. Esto no pasa en la 2.0 (Para arreglarlo, presiona **Ctrl + Alt + Supr**, clickea en administrador de tareas y termina el proceso BennuGD, si quieres que esto no pase mas, juega en modo ventana)
-3. Al cargar una partida, el score y las vidas se resetean, en el caso del score, se resetea a 0, y las vidas se resetean a 10. Puedes aprovechar este bug para no perder en las partidas.
+3. Al cargar una partida, el score y las vidas se resetean, en el caso del score, se resetea a 0, y las vidas se resetean a 10. Puedes aprovechar este bug para no perder en el modo aventura.
 
 # Bugs de la 2.0
 Aquí una lista de bugs en la 2.0 que yo conozco.
