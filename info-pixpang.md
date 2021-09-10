@@ -1,13 +1,14 @@
-En este archivo, encontraras info del juego.
+En este archivo, encontraras información del juego.
 
 # Entrevista a PiX Juegos
 
-Esta entrevista se hizo el 3 de febrero en 2007, link aquí por si te interesa: https://gizmos.republica.com/videojuegos/entrevista-a-pixjuegos.html
+Esta entrevista se hizo el 3 de febrero en 2007, aquí esta el link por si te interesa: https://gizmos.republica.com/videojuegos/entrevista-a-pixjuegos.html
 
-Gracias a esta entrevista podemos saber de que los fondos del juego son fotos de algunos amigos de panreyes + gente que contribuyo al juego, además de que hubieron juegos cancelados o que nunca salieron a la luz, como Secret Of PiX. El juego que Carles estaba desarrollando, era probablemente Garnatron, ya que es un shoot em up.
+Gracias a esta entrevista podemos saber de que los fondos del juego son fotos de algunos amigos de panreyes y gente que contribuyo al juego, además de que hubieron juegos cancelados o que nunca salieron a la luz, como Secret Of PiX. Por cierto, el juego que Carles estaba desarrollando, era probablemente Garnatron, ya que es un shoot em up, como se describe en la entrevista.
 
 # Código fuente de algunos proyectos
 El código fuente de PiX Pang + otros proyectos de PiX Juegos, los encontraras aquí: https://github.com/tomiiiiiiiii/pixjuegos
+De suerte lo pude guardar a tiempo.. Ya que panreyes saco el código fuente de todos los juegos.
 Ahora, si los quieres compilar, ya es trabajo tuyo, lo unico que puedo decirte es que si estás tratando de compilar un juego del 2005 o 2004, usa Fenix 0.83 o 0.84, si quieres compilar un juego del 2006 al 2013, usa BennuGD (ultima release) o Fenix 0.93.
 
 # Versiones no encontradas
@@ -20,24 +21,27 @@ Y también la versión 0.6, que en mi opinión, es muy rara.
 Esta versión esta en el lugar de releases, es 100% jugable, aunque la verdad no lo recomiendo jugar por el escaso contenido que tiene y lo aburrido que es.
 Tiene demasiadas similitudes con la 1.6b, como por ejemplo, fondos iguales, capaz que mismo sonidos (**?**) y entre otros, así que lo considero como una versión vieja de PiX Pang en vez de un juego extra.
 
+En el futuro, veremos si hay nuevas versiones, o simplemente nada.
+
 # Modo Safari
-Este modo de juego esta disponible en versiones anteriores a la 2.1 (osea, 2.0 y capaz 1.6b, en la 0.6 este modo no esta), ya que fue eliminado en la 2.1. Se trata de lanzar huevos a bolas que aparecen de la nada, luego de destruir todas las bolas (que generalmente son 200 las que tienes que destruir), peleas contra un personaje que tiene 5 vidas, no es tan complicado, aunque los controles cambian demasiado, como por ejemplo, para apuntar puedes usar las teclas o el mouse, y para tirar huevos, usa el click izquierdo.
+Este modo de juego esta disponible en versiones anteriores a la 2.1 (osea, 2.0 y capaz 1.6b, en la 0.6 este modo ya no esta disponible), ya que fue eliminado en la 2.1. Se trata de lanzar huevos a bolas que aparecen a la derecha de la pantalla, luego de destruir todas las bolas (que generalmente son 200 las que tienes que destruir, o, a veces, un poco menos), peleas contra un personaje que tiene 5 vidas, no es tan complicado, aunque los controles cambian demasiado. Por ejemplo, para apuntar se usa las teclas o el mouse, y para tirar huevos, se usa el click izquierdo, son controles muy diferentes a los del modo aventura.
 
 # Editor de niveles
 El mismo nombre lo dice, lo unico que puedo decir es que es muy poco intuitivo, en vez de ser una interfaz, es puro texto, hubiera sido buenisimo un sistema de drag and click pero bueno. Para jugar en niveles personalizados (solo 2.0, ya que en la 2.1 no existe), ve a play, clickea en custom mode y empieza a jugar. Además si no me equivoco, no se puede cambiar de fondo, para hacer esto, se necesita modificar el juego.
 
 # Jugar por LAN
-Aunque panreyes haya puesto que se agrego para jugar en la red, no hay ninguna forma de activar esto. 
-Si quieres jugar con otra persona, solo necesitas que este en tu misma casa y use un ratón, o conecte un joystick y use un programa para hacerlo funcionar.
+Aunque panreyes haya puesto que se agrego para jugar en la red (probablemente por LAN, imaginate que fueran servidores xd), no hay ninguna forma de activar esto. 
+Si quieres jugar con otra persona, solo necesitas que este en tu misma casa y use un ratón, o conecte un joystick y use un programa para hacerlo funcionar. Tal vez el futuro nos dara una solución a esto y lo hara mas fácil, ya que estamos en cuarentena xD.
 
-Por el momento es imposible jugar a travez de LAN o red, esto requiere cambiar el código fuente del juego.
+Por el momento es imposible jugar a travez de LAN o red, esto requiere cambiar el código fuente del juego y obviamente, hacer demasiado trabajo.
 
 # Mejoras para alguna modificación de PiX Pang
-Si alguien llega a hacer esto, pues, aquí una lista de mejoras:
+Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
 1. ¡Mas fondos y niveles! Seria muy cool la verdad, porque por el momento el juego es muy corto, y los modos extra solo añaden unos minutos extra de juego, con el tema de los fondos, que tengan la misma estetica que usa el juego xD.
 2. Editor de niveles, aunque esto existe en la 2.0 (pero no en la 2.1), es muy poco intuitivo y además no se puede cambiar de fondo.
 3. Arreglar los bugs de la 2.1, claro.
-4. ¿Multijugador LAN? Seria cool, pero no se si BennuGD permite eso.
+4. ¿Multijugador LAN? Seria cool, pero no se si BennuGD o Fenix permite eso.
+5. El menú de la 2.0, el de la 2.1 no es que sea horrible, pero no me gusta como el de la 2.0
 
 # Notas de los desarrolladores para cambiar el juego (2007)
 - Para cambiar los fondos simplemente sustituir los fondos de la carpeta fondos, podéis mirar la resolución de los fondos en los fondos mismos.
