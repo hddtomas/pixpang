@@ -40,9 +40,10 @@ Lo interesante de esta versión son los fondos y la música, que por cierto es m
 Playtime promedio: Después lo calculare.
 
 # PiX Pang 1.6d
-(FALTA COMPILAR)
-Al igual que la versión PiX Pang 1.6 beta, es **injugable** (se necesita compilar) y **probablemente requiere Windows XP** para correr esta versión de PiX Pang.
-No tengo idea de que diferencias tiene con PiX Pang 1.6 beta.
+Al igual que la versión PiX Pang 1.6 beta, ya es jugable y requiere Windows XP para correr esta versión.
+A diferencia de PiX Pang 1.6 Beta, tiene mucho mas contenido y un tutorial, pero claro, tiene bugs.
+
+Playtime promedio: Después lo calculare.
 
 # PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.6
 **Para correr esta versión necesitas Windows XP, como en la 2.0**
