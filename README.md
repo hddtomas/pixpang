@@ -37,13 +37,13 @@ Si simplemente quieres jugar, descarga la versión ya compilada y clickea en Ini
 
 Lo interesante de esta versión son los fondos y la música, que por cierto es muy distinta.
 
-Playtime promedio: Después lo calculare.
+Playtime promedio: **4 - 6 horas** probando todos los modos (es complicado por la hitbox que hay)
 
 # PiX Pang 1.6d
 Al igual que la versión PiX Pang 1.6 beta, ya es jugable y requiere Windows XP para correr esta versión.
 A diferencia de PiX Pang 1.6 Beta, tiene mucho mas contenido y un tutorial, pero claro, tiene bugs.
 
-Playtime promedio: Después lo calculare.
+Playtime promedio: **2 - 3 horas** probando todos los modos
 
 # PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.6
 (injugable por el momento, ni se que paso, pero ya no anda en Windows XP ni en mi pc)
