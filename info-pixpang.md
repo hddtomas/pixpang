@@ -1,15 +1,15 @@
-En este archivo, encontraras información del juego.
+En este archivo, encontraras información sobre PiX Pang.
 
 # Entrevista a PiX Juegos
 
-Esta entrevista se hizo el 3 de febrero en 2007, aquí esta el link por si te interesa: https://gizmos.republica.com/videojuegos/entrevista-a-pixjuegos.html
+Esta entrevista se hizo el 3 de febrero en 2007, aquí esta el link por si te interesa y quieres leerlo: https://gizmos.republica.com/videojuegos/entrevista-a-pixjuegos.html
 
-Gracias a esta entrevista podemos saber de que los fondos del juego son fotos de algunos amigos de panreyes y gente que contribuyo al juego, además de que hubieron juegos cancelados o que nunca salieron a la luz, como Secret Of PiX. Por cierto, el juego que Carles estaba desarrollando, era probablemente Garnatron, ya que es un shoot em up, como se describe en la entrevista.
+Gracias a esta entrevista podemos saber de que los fondos del juego son fotos de algunos amigos de panreyes y gente que contribuyo al juego, además de que hubieron juegos cancelados o que nunca salieron a la luz, como Secret Of PiX. Por cierto, seguramente el juego que Carles estaba desarrollando, era probablemente Garnatron, ya que es un shoot em up, como se describe en la entrevista.
 
 # Código fuente de algunos proyectos
 El código fuente de PiX Pang + otros proyectos de PiX Juegos, los encontraras aquí: https://github.com/tomiiiiiiiii/pixjuegos
 De suerte lo pude guardar a tiempo.. Ya que panreyes saco el código fuente de todos los juegos.
-Ahora, si los quieres compilar, ya es trabajo tuyo, lo unico que puedo decirte es que si estás tratando de compilar un juego del 2005 o 2004, usa Fenix 0.83 o 0.84, si quieres compilar un juego del 2006 al 2013, usa BennuGD (ultima release) o Fenix 0.93.
+Ahora, si los quieres compilar, ya es trabajo tuyo, lo unico que puedo decirte es que si estás tratando de compilar un juego del 2005 o 2004, usa Fenix 0.83 o 0.84, si quieres compilar un juego del 2006 al 2014, usa BennuGD (ultima release) o Fenix 0.93.
 
 # Versiones no encontradas
 Ya he buscado en internet, incluso en la Wayback Machine, pero no hay nada. 
