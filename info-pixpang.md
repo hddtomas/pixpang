@@ -55,6 +55,13 @@ Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
 - Para cambiar los sonidos, están en la carpeta wav.
 - Y para cambiar el juego directamente tenéis el código fuente en la carpeta src.
 
+# Diferencias entre la 2.0 y la 2.1
+1. En la 2.0 hay un mejor menu que en la 2.1
+2. En la 2.0, se puede pausar en las partidas, mientras que en la 2.1 se puede hacer lo mismo, en la 2.0 no se reinicia el progreso hecho en cierto nivel.
+3. En la 2.0, hay una mejor intro que en la 2.1
+4. En la 2.0, se pueden elegir personajes, mientras que en la 2.1 no puedes.
+5. En la 2.0, esta el modo safari, mientras que en la 2.1 no esta.
+
 # Bugs de la 2.1
 1. El primer bug de la 2.0 sigue pasando, solo que esta vez es muy raro que pase. (No se puede arreglar)
 2. Salir de la ventana con la tecla **Windows** hara que el mouse se bugee. Esto no pasa en la 2.0 (Para arreglarlo, presiona **Ctrl + Alt + Supr**, clickea en administrador de tareas y termina el proceso BennuGD, si quieres que esto no pase mas, juega en modo ventana)
