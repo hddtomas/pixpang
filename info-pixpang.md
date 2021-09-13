@@ -44,7 +44,7 @@ Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
 5. El menú de la 2.0, el de la 2.1 no es que sea horrible, pero no me gusta como el de la 2.0
 
 # Notas de los desarrolladores para cambiar el juego (2007)
-- Para cambiar los fondos simplemente sustituir los fondos de la carpeta fondos, podéis mirar la resolución de los fondos en los fondos mismos.
+- Para cambiar los fondos simplemente sustituye los fondos de la carpeta fondos, podéis mirar la resolución de los fondos en los fondos mismos.
 - Para cambiar los gráficos del juego ya tendréis que utilizar una herramienta de Fénix, llamada FPG Edit y ya buscaros la vida para sustituir los gráficos de los ficheros FPG en la carpeta FPG. No es muy complicado, simplemente conocerlo un poco. Luego hay algún que otro gráfico en la carpeta cosas.
 - Para cambiar las músicas están en la carpeta cd-ogg. Necesitaréis convertir las músicas (wav,mp3,wma,...) al formato OGG, os recomiendo dbPowerAmp.
 - Para cambiar los niveles que hay actualmente tenéis que utilizar el editor de niveles integrado en PiX Pang. Los niveles los guarda en la carpeta pantallas, pero luego podéis coger esos mismos niveles y sustituir los de la carpeta tour.
@@ -60,5 +60,5 @@ Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
 Aquí una lista de bugs en la 2.0 que yo conozco.
 
 1. En el modo aventura, cuando se pasa de nivel, algunos fondos se saltan. (No se puede arreglar)
-2. Hay bugs de gráficos al cambiar de ventanas, no se si esto es un bug de VMWare Workstation (muy probable) o del juego. (Requiere un reinicio del juego para arreglar)
+2. Hay bugs de gráficos al cambiar de ventanas, no se si esto es un bug de VMWare Workstation (muy probable) o del juego. (Requiere un reinicio del juego para arreglar) (Para evitar este problema: Pon el juego a pantalla completa. **Options > Pantalla Completa**)
 3. Al elegir al segundo jugador como la computadora, si iniciamos una partida, salimos y elegimos que no queremos ningun segundo jugador, al iniciar otra partida, se escuchara el sonido de disparo infinitamente. (Requiere reinicio del juego para arreglar)
