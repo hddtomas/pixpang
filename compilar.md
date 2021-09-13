@@ -3,6 +3,7 @@
 ## 1.6 hasta 2.0
 Requisitos para compilar:
 Fenix 0.84 ([Click aquí](https://web.archive.org/web/20050211004716/https://fenix.divsite.net/ "Click aquí") | **Descargas > Fenix-0.84b-win32-binary.zip**)
+
 PiX Pang 1.6  o 2.0 Source (generalmente ya vienen incluidas en el juego)
 
 Requisitos para iniciar:
