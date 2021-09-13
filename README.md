@@ -26,18 +26,21 @@ No tiene tantos bugs afortunadamente, pero si tiene algunos bugs que requieren q
 Cabe aclarar que en Windows Vista, 7 y 10 no funciona, ni con el uso de la opción de compatiblidad.
 Lo que recomiendo hacer es montar una máquina virtual en VMWare Workstation, después instalarlo y todo lo demás es trabajo tuyo :)
 
-Playtime promedio: **3 - 6 horas** probando todos los modos.
+Playtime promedio: **3 - 5 horas** probando todos los modos.
 
 # PiX Pang 1.6 Beta
-Por el momento es **INJUGABLE** debido que al intentar compilar el juego, sale el error "Cannot load library", supongo que la libreria "image" simplemente no existe o algo por el estilo.
+Luego de unas semanas, lo he podido compilar.
+Si eres un desarrollador o algo por el estilo y quieres compilar el juego, mira el archivo compilar.md para ver un tutorial de como compilar el juego.
+Si simplemente quieres jugar, descarga la versión ya compilada y clickea en Iniciar.bat
 
-**Para correr esta versión necesitas Windows XP, si es que se puede llegar a compilar y arreglar**
+**Para correr esta versión necesitas Windows XP**
 
 Lo interesante de esta versión son los fondos y la música, que por cierto es muy distinta.
 
-Playtime promedio: No se puede calcular.
+Playtime promedio: Después lo calculare.
 
-# PiX Pang 1.16d
+# PiX Pang 1.6d
+(FALTA COMPILAR)
 Al igual que la versión PiX Pang 1.6 beta, es **injugable** (se necesita compilar) y **probablemente requiere Windows XP** para correr esta versión de PiX Pang.
 No tengo idea de que diferencias tiene con PiX Pang 1.6 beta.
 
