@@ -1,5 +1,9 @@
 En este archivo, encontraras información sobre PiX Pang.
 
+# Página web anterior a PiX Juegos
+https://web.archive.org/web/20061212200727/http://pixpang.pixjuegos.com/web/
+De aqui he sacado el PiX Pang 1.6d, vere que mas hay.
+
 # Entrevista a PiX Juegos
 
 Esta entrevista se hizo el 3 de febrero en 2007, aquí esta el link por si te interesa y quieres leerlo: https://gizmos.republica.com/videojuegos/entrevista-a-pixjuegos.html
