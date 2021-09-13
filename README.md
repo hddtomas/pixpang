@@ -4,6 +4,8 @@ Bienvenido al repositorio sobre el juego PiX Pang!
 
 En este repositorio, lo que hare es acumular versiones y información del juego.
 
+**QUIERO ACLARAR QUE ESTE NO ES MI JUEGO.** Por favor, si te gusta, dale apoyo a pixjuegos.com, no a mi, yo solo estoy buscando versiones y brindando información. Gracias.
+
 
 
 # PiX Pang 2.1
