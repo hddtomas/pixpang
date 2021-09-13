@@ -46,6 +46,7 @@ A diferencia de PiX Pang 1.6 Beta, tiene mucho mas contenido y un tutorial, pero
 Playtime promedio: Después lo calculare.
 
 # PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.6
+(injugable por el momento, ni se que paso, pero ya no anda en Windows XP ni en mi pc)
 **Para correr esta versión necesitas Windows XP, como en la 2.0**
 
 Supongo que es una versión vieja y no un juego extra, ya que está muy poco desarrollado, además tiene sprites y sonidos de Super Pang, también hay fondos de la 1.6
