@@ -9,7 +9,7 @@ PiX Pang 1.6  o 2.0 Source (generalmente ya vienen incluidas en el juego)
 Requisitos para iniciar:
 Máquina virtual con Windows XP (al menos 2 gbs de ram)
 
-Una vez que tengamos todo esto, se debe ir a la carpeta del juego y luego a la carpeta source, donde deberian estar todos los archivos del juego. Una vez hecho eso, deberiamos encontrar un archivo BAT para compilar el juego, en caso de que este no este, creamos un archivo bat y ponemos el siguiente código:
+Una vez que tengamos todo esto, se debe ir a la carpeta del juego y luego a la carpeta source o src, donde deberian estar todos los archivos fuente del juego listos para compilar. Una vez hecho eso, deberiamos encontrar un archivo BAT para compilar el juego, en caso de que este no exista, creamos un archivo bat y ponemos el siguiente código:
 ```bash
 echo off
 cls
@@ -46,4 +46,4 @@ Finalmente, abrelo, y con eso ya deberia abrir el juego, en caso de que no abra,
 
 
 ## 2.1
-Próximamente...
+Nada por el momento.
