@@ -73,3 +73,5 @@ Aquí una lista de bugs en la 2.0 que yo conozco.
 1. En el modo aventura, cuando se pasa de nivel, algunos fondos se saltan. (No se puede arreglar)
 2. Hay bugs de gráficos al cambiar de ventanas, no se si esto es un bug de VMWare Workstation (muy probable) o del juego. (Requiere un reinicio del juego para arreglar) (Para evitar este problema: Pon el juego a pantalla completa. **Options > Pantalla Completa**)
 3. Al elegir al segundo jugador como la computadora, si iniciamos una partida, salimos y elegimos que no queremos ningun segundo jugador, al iniciar otra partida, se escuchara el sonido de disparo infinitamente. (Requiere reinicio del juego para arreglar)
+4. A veces, si agarras demasiados poderes de ralentización en el modo aventura, este puede quedar hasta que termine la ronda.
+5. En el nivel 15, el juego se puede crashear a lo random. Asegurate de guardar tu partida antes. 
