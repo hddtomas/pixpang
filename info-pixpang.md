@@ -4,6 +4,10 @@ En este archivo, encontraras información sobre PiX Pang.
 https://web.archive.org/web/20061212200727/http://pixpang.pixjuegos.com/web/
 De aqui he sacado el PiX Pang 1.6d, vere que mas hay.
 
+# Personajes de PiX Pang
+Simplemente, interesante xD. https://danigm.wordpress.com/2005/10/26/pix-pang/
+
+
 # Entrevista a PiX Juegos
 
 Esta entrevista se hizo el 3 de febrero en 2007, aquí esta el link por si te interesa y quieres leerlo: https://gizmos.republica.com/videojuegos/entrevista-a-pixjuegos.html
