@@ -79,3 +79,9 @@ Aquí una lista de bugs en la 2.0 que yo conozco.
 3. Al elegir al segundo jugador como la computadora, si iniciamos una partida, salimos y elegimos que no queremos ningun segundo jugador, al iniciar otra partida, se escuchara el sonido de disparo infinitamente. (Requiere reinicio del juego para arreglar)
 4. A veces, si agarras demasiados poderes de ralentización en el modo aventura, este puede quedar hasta que termine la ronda.
 5. En el nivel 15, el juego se puede crashear a lo random. Asegurate de guardar tu partida antes. 
+
+# Versión desconocida
+https://www.abcdatos.com/programa/plataformas-disparos-pang.html
+
+En la miniatura del juego, se puede ver una foto de una versión anterior a la 2.0
+Probablemente sea la 1.6b o la 1.6d, pero hay que confirmarlo.
