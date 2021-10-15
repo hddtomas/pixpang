@@ -1,6 +1,6 @@
 En este archivo, encontraras información sobre PiX Pang.
 
-# Acceder a los archivos de la 2.1
+# Acceder a los archivos de la 2.1 (solo Windows)
 Como ya sabran, en PiX Pang 2.1, en vez de venir con una carpeta con todos los archivos del juego, viene un archivo exe.
 Para acceder a los archivos de la 2.1, se debe abrir el juego y luego ir al administrador de tareas, detalles y buscar pixpang.exe, le damos click derecho y luego "abrir ubicación del archivo", una vez hecho todo eso, ya estaremos en la carpeta del juego, la cual esta ubicada en la carpeta temporal de Windows.
 
@@ -26,12 +26,12 @@ Ahora, si los quieres compilar, ya es trabajo tuyo, lo unico que puedo decirte e
 # Versiones no encontradas
 Ya he buscado en internet, incluso en la Wayback Machine, pero no hay nada. 
 
-Lo unico que he llegado a encontrar fue la 1.6b (b de beta supongo?), pero no se puede compilar por un error de libreria.
+Lo unico que he llegado a encontrar fue la 1.6b (b de beta supongo?) y la 1.6d por ahi.
 https://archivos.abcdatos.com/programas/Z/Z2691/pixpang16.tar.bz2
 
 Y también la versión 0.6, que en mi opinión, es muy rara.
 Esta versión esta en el lugar de releases, es 100% jugable, aunque la verdad no lo recomiendo jugar por el escaso contenido que tiene y lo aburrido que es.
-Tiene demasiadas similitudes con la 1.6b, como por ejemplo, fondos iguales, capaz que mismo sonidos (**?**) y entre otros, así que lo considero como una versión vieja de PiX Pang en vez de un juego extra.
+Tiene demasiadas similitudes con la 1.6b, como por ejemplo, fondos iguales, creo que los mismos sonidos (**?**) y entre otros, así que lo considero como una versión vieja de PiX Pang en vez de un juego extra.
 
 En el futuro, veremos si hay nuevas versiones, o simplemente nada.
 
@@ -88,4 +88,5 @@ Aquí una lista de bugs en la 2.0 que yo conozco.
 https://www.abcdatos.com/programa/plataformas-disparos-pang.html
 
 En la miniatura del juego, se puede ver una foto de una versión anterior a la 2.0
-Probablemente sea la 1.6b o la 1.6d, pero hay que confirmarlo.
+~~Probablemente sea la 1.6b o la 1.6d, pero hay que confirmarlo.~~
+No es la 1.6b o la 1.6d, no se de que versión se trata, habría que buscarlo.
