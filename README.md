@@ -30,18 +30,17 @@ Playtime promedio: **3 - 5 horas** probando todos los modos.
 
 # PiX Pang 1.6d
 Al igual que la versión PiX Pang 1.6 beta, ya es jugable y requiere Windows XP para correr esta versión.
-A diferencia de PiX Pang 1.6 Beta, tiene mucho mas contenido y un tutorial, pero claro, tiene bugs.
+A diferencia de PiX Pang 1.6 Beta, ya tiene los fondos y los gráficos que conocemos hoy en día.
 
 Playtime promedio: **3 - 6 horas** probando todos los modos
 
 # PiX Pang 1.6 Beta
-Luego de unas semanas, lo he podido compilar.
 Si eres un desarrollador o algo por el estilo y quieres compilar el juego, mira el archivo compilar.md para ver un tutorial de como compilar el juego.
 Si simplemente quieres jugar, descarga la versión ya compilada y clickea en Iniciar.bat
 
 **Para correr esta versión necesitas Windows XP**
 
-Lo interesante de esta versión son los fondos y la música, que por cierto es muy distinta.
+Esta versión es muy diferente a la 2.0 y la 2.1, conteniendo gráficos del juego muy antiguos, música y sonidos de Super Pang.
 
 Playtime promedio: **3 - 5 horas** probando todos los modos (es complicado por la hitbox que hay)
 
