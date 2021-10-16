@@ -84,6 +84,9 @@ Aquí una lista de bugs en la 2.0 que yo conozco.
 4. A veces, si agarras demasiados poderes de ralentización en el modo aventura, este puede quedar hasta que termine la ronda.
 5. En el nivel 15, el juego se puede crashear a lo random. Asegurate de guardar tu partida antes. 
 
+# Bugs de la 1.6 beta
+1. Al elegir un segundo jugador como computadora y después poner que no queremos a un segundo jugador, el juego lo tomara como que queremos un segundo jugador como computadora (solo pasa especificamente al elegir la computadora).
+
 # Versión desconocida
 https://www.abcdatos.com/programa/plataformas-disparos-pang.html
 
