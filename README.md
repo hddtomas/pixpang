@@ -41,6 +41,7 @@ Si simplemente quieres jugar, descarga la versión ya compilada y clickea en Ini
 **Para correr esta versión necesitas Windows XP**
 
 Esta versión es muy diferente a la 2.0 y la 2.1, conteniendo gráficos del juego muy antiguos, música y sonidos de Super Pang.
+Además, tiene creditos diferentes que la 2.0, y por alguna razón, en los creditos dice que la versión es la 2.0, cuando no es así.
 
 Playtime promedio: **3 - 5 horas** probando todos los modos (es complicado por la hitbox que hay)
 
