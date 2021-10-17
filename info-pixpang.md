@@ -93,3 +93,6 @@ https://www.abcdatos.com/programa/plataformas-disparos-pang.html
 En la miniatura del juego, se puede ver una foto de una versión anterior a la 2.0
 ~~Probablemente sea la 1.6b o la 1.6d, pero hay que confirmarlo.~~
 No es la 1.6b o la 1.6d, no se de que versión se trata, habría que buscarlo.
+
+Update 17/10/2021: https://pix-pang.softonic.com/ 
+He conseguido una mejor foto, pero la verdad no se de que versión se trata.
