@@ -4,6 +4,8 @@ En este archivo, encontraras información sobre PiX Pang.
 Como ya sabran, en PiX Pang 2.1, en vez de venir con una carpeta con todos los archivos del juego, viene un archivo exe.
 Para acceder a los archivos de la 2.1, se debe abrir el juego y luego ir al administrador de tareas, detalles y buscar pixpang.exe, le damos click derecho y luego "abrir ubicación del archivo", una vez hecho todo eso, ya estaremos en la carpeta del juego, la cual esta ubicada en la carpeta temporal de Windows.
 
+Si ya les cansa la música o les molesta, es tan fácil como ir a opciones y deshabilitar la música, así de simple.
+
 # Página web anterior a PiX Juegos
 https://web.archive.org/web/20061212200727/http://pixpang.pixjuegos.com/web/
 De aqui he sacado el PiX Pang 1.6d, vere que mas hay.
