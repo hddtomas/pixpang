@@ -47,6 +47,11 @@ Además, tiene creditos diferentes que la 2.0, y por alguna razón, en los credi
 
 Playtime promedio: **3 - 5 horas** probando todos los modos (es complicado por la hitbox que hay)
 
+# PiX Super Pang
+Esta versión es un mod, pero lo pongo aca porque se podía descargar en la página (usando wayback machine, claro jeje), creo que la versión es anterior a la 2.0, lo cual incluye la 1.6d, 1.6b y la 0.6, pero sinceramente creo que la mas acertada es la 1.6b, aunque probablemente sea la 1.6c, pero no sabemos si sigue existiendo (ojala que si).
+
+Playtime promedio: **menos de 1 hora** (la verdad no lo he probado mucho porque me aburria xD)
+
 
 # PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.6
 (injugable por el momento, ni se que paso, pero ya no anda en Windows XP ni en mi pc)
