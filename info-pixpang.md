@@ -98,3 +98,8 @@ No es la 1.6b o la 1.6d, no se de que versión se trata, habría que buscarlo.
 
 Update 17/10/2021: https://pix-pang.softonic.com/ 
 He conseguido una mejor foto, pero la verdad no se de que versión se trata.
+
+# Versiones que SI existen pero no sabemos si existen descargas.
+PiX Pang 1.5: https://web.archive.org/web/20050204194455/http://www.softonic.com/ie/37646/
+PiX Pang 1.6 final: https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.php
+PiX Pang 1.6c: https://web.archive.org/web/20131103194219/https://www.todato.net/software/verprograma-37646.php y https://www.cdlibre.org/descargar/covers/2006/200603/cdlibre.org_CajaCD_CDJuegos_200603.pdf
