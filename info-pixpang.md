@@ -93,11 +93,14 @@ Aquí una lista de bugs en la 2.0 que yo conozco.
 https://www.abcdatos.com/programa/plataformas-disparos-pang.html
 
 En la miniatura del juego, se puede ver una foto de una versión anterior a la 2.0
-~~Probablemente sea la 1.6b o la 1.6d, pero hay que confirmarlo.~~
 No es la 1.6b o la 1.6d, no se de que versión se trata, habría que buscarlo.
 
 Update 17/10/2021: https://pix-pang.softonic.com/ 
 He conseguido una mejor foto, pero la verdad no se de que versión se trata.
+
+Update 14/11/2021: Lo he pensado mejor y bueno, quiero aclarar una cosa.
+En la 1.6b están los FPG viejos, pero, en la 1.6d, están los FPG que conocemos hoy en día.
+Eso significa que, lo mas probable, la versión que se demuestra en la foto sea la 1.6c, la cual todavia no he llegado a encontrar.
 
 # Versiones que SI existen pero no sabemos si existen descargas.
 PiX Pang 1.5: https://web.archive.org/web/20050204194455/http://www.softonic.com/ie/37646/
