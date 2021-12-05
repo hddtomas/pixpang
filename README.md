@@ -10,42 +10,33 @@ En este repositorio, lo que hare es acumular versiones y información del juego.
 
 # PiX Pang 2.1
 Esta es la ultima versión del juego PiX Pang, que se puede conseguir en la página de PiX Juegos, los cambios están en la ultima release.
-Por el momento es la versión mas estable (Esta compilado con BennuGD), pero se recomienda jugar la 2.0 si buscas algo un poco mas largo.
+PiX Pang 2.1 esta en BennuGD, pero anteriormente estaba en Fenix 0.91. Esta versión es la mas estable, pero si estás buscando una versión con mas modos y mejor diseño a cambio de poca estabilidad, entonces ve por la 2.0
 
-Playtime promedio: **2 - 3 horas** probando todos los modos.
+Playtime promedio: **3 - 4 horas** probando todos los modos.
 
-**Esta versión funciona en Windows 10**, se desconoce si funciona en Windows 7 o Vista, pero supongo que si.
+**Esta versión funciona en Windows 7, 10 y 11**
 
 # PiX Pang 2.0
-Esta versión es la que recomiendo jugar por tener mucho mas contenido que la 2.1, el problema es:
-**Necesitas Windows XP para correr esta versión**, ya que al estar compilado con Fenix 0.84b (que es algo del 2006 y demasiado antiguo), solo soporta este sistema operativo y seguro alguno anterior.  
-Y otra cosa.
-**Tiene bugs.**
-No tiene tantos bugs afortunadamente, pero si tiene algunos bugs que requieren que reinicies el juego completamente, así que no es tan estable que digamos, la mas estable seria la 2.1, pero estas sacrificando contenido a cambio de estabilidad.
+Esta versión contiene el viejo menú (que es mucho mejor que el de la 2.1), el Safari Mode y el editor de niveles (que esta completamente roto), esta compilado en Fenix 0.84b, lo cual significa que solo tiene soporte para Windows XP y algun otro sistema operativo anterior. Esta versión tiene bugs y poca estabilidad, pero es jugable.
 
-Cabe aclarar que en Windows Vista, 7 y 10 no funciona, ni con el uso de la opción de compatiblidad.
-Lo que recomiendo hacer es montar una máquina virtual en VMWare Workstation, después instalarlo y todo lo demás es trabajo tuyo :)
+Lo que recomiendo hacer para jugarlo es montar una máquina virtual en VMWare Workstation, después instalarlo y todo lo demás es trabajo tuyo :)
 
 Playtime promedio: **3 - 5 horas** probando todos los modos.
 
 # PiX Pang 1.6d
-Al igual que la versión PiX Pang 1.6 beta, ya es jugable y requiere Windows XP para correr esta versión.
-A diferencia de PiX Pang 1.6 Beta, ya tiene los fondos y los gráficos que conocemos hoy en día.
+A diferencia de PiX Pang 1.6 Beta, ya tiene los fondos y los gráficos que conocemos hoy en día, pero sigue siendo un poco distinto.
 La intro y la música del menú ya son diferentes, aunque bueno, la mayoria de música y sonidos de Super Pang ya han sidos eliminados.
-Por ahora no tiene mucha variedad con el tema de la música.
 
 Playtime promedio: **3 - 6 horas** probando todos los modos
 
 # PiX Pang 1.6 Beta
-Si eres un desarrollador o algo por el estilo y quieres compilar el juego, mira el archivo compilar.md para ver un tutorial de como compilar el juego.
-Si simplemente quieres jugar, descarga la versión ya compilada y clickea en Iniciar.bat
+Esta versión es antigua, así que contiene todo los gráficos viejos, esto era cuando no había nadie que aportase arte ni música al juego.
+Además, si te gusta la música de Super Pang, pues estaras encantado con esta versión.
+No tiene jefes, pero tiene niveles con diseños distintos, y tiene una dificultad enorme porque la hitbox es muy diferente a la 2.0 y 2.1, así que si buscas algo nuevo, pasate por esta versión.
 
-**Para correr esta versión necesitas Windows XP**
+Podría decir que esta versión es estable, porque apenas he encontrado bugs.
 
-Esta versión es muy diferente a la 2.0 y la 2.1, conteniendo gráficos del juego muy antiguos, música y sonidos de Super Pang.
-Además, tiene creditos diferentes que la 2.0, y por alguna razón, en los creditos dice que la versión es la 2.0, cuando no es así.
-
-Playtime promedio: **3 - 5 horas** probando todos los modos (es complicado por la hitbox que hay)
+Playtime promedio: **3 - 5 horas** probando todos los modos.
 
 # PiX Super Pang
 Esta versión es un mod, pero lo pongo aca porque se podía descargar en la página (usando wayback machine, claro jeje), creo que la versión es anterior a la 2.0, lo cual incluye la 1.6d, 1.6b y la 0.6, pero sinceramente creo que la mas acertada es la 1.6b, aunque probablemente sea la 1.6c, pero no sabemos si sigue existiendo (ojala que si).
