@@ -23,6 +23,11 @@ Lo que recomiendo hacer para jugarlo es montar una máquina virtual en VMWare Wo
 
 Playtime promedio: **3 - 5 horas** probando todos los modos.
 
+# PiX Pang 1.6c
+El changelog esta en el release, esta versión dispone de un instalador por lo cual no es necesario tener que compilar el juego.
+
+Playtime promedio: no tengo idea xD
+
 # PiX Pang 1.6d
 A diferencia de PiX Pang 1.6 Beta, ya tiene los fondos y los gráficos que conocemos hoy en día, pero sigue siendo un poco distinto.
 La intro y la música del menú ya son diferentes, aunque bueno, la mayoria de música y sonidos de Super Pang ya han sidos eliminados.
