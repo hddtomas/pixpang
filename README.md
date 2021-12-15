@@ -20,6 +20,14 @@ Playtime promedio: **3 - 4 horas** probando todos los modos.
 Esta versión en si es muy inferior a la versión de PC, ya que en gráficos esta muy reducido, pero seguro es para que no ande mal en ciertos dispositivos.
 Si tienes un celular, pues, juega esta versión.
 
+Playtime promedio: no tengo idea jejej xD
+
+# PiX Pang 2.1 (2010)
+
+Esta versión es igual a la del 2.1 solo que no tiene ningún fondo y además que esta compilado en Fenix 0.93. 
+
+Playtime promedio: el mismo playtime que la 2.1 actual.
+
 # PiX Pang 2.0
 Esta versión contiene el viejo menú (que es mucho mejor que el de la 2.1), el Safari Mode y el editor de niveles (que esta completamente roto), esta compilado en Fenix 0.84b, lo cual significa que solo tiene soporte para Windows XP y algun otro sistema operativo anterior. Esta versión tiene bugs y poca estabilidad, pero es jugable.
 
