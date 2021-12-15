@@ -7,7 +7,7 @@ En este repositorio, lo que hare es acumular versiones y información del juego.
 **QUIERO ACLARAR QUE ESTE NO ES MI JUEGO.** Por favor, si te gusta, dale apoyo a pixjuegos.com o a panreyes y los demás desarrolladores de PiX Pang, no a mi, yo solo estoy buscando versiones y brindando información. Gracias.
 
 
-# PiX Pang 2.1
+# PiX Pang 2.1 (el que esta en pixjuegos.com en la actualidad)
 Esta es la ultima versión del juego PiX Pang, que se puede conseguir en la página de PiX Juegos, los cambios están en la ultima release.
 PiX Pang 2.1 esta en BennuGD, pero anteriormente estaba en Fenix 0.91. Esta versión es la mas estable, pero si estás buscando una versión con mas modos y mejor diseño a cambio de poca estabilidad, entonces ve por la 2.0
 
