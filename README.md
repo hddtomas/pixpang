@@ -24,7 +24,8 @@ Playtime promedio: no tengo idea jejej xD
 
 # PiX Pang 2.1 (2010)
 
-Esta versión es igual a la del 2.1 solo que no tiene ningún fondo y además que esta compilado en Fenix 0.93. 
+Esta versión es igual a la del 2.1 solo que no tiene ningún fondo y además que esta compilado en Fenix 0.93.
+También esta en español, mientrás que la versión actual esta en inglés.
 
 Playtime promedio: el mismo playtime que la 2.1 actual.
 
