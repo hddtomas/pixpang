@@ -7,7 +7,6 @@ En este repositorio, lo que hare es acumular versiones y información del juego.
 **QUIERO ACLARAR QUE ESTE NO ES MI JUEGO.** Por favor, si te gusta, dale apoyo a pixjuegos.com o a panreyes y los demás desarrolladores de PiX Pang, no a mi, yo solo estoy buscando versiones y brindando información. Gracias.
 
 
-
 # PiX Pang 2.1
 Esta es la ultima versión del juego PiX Pang, que se puede conseguir en la página de PiX Juegos, los cambios están en la ultima release.
 PiX Pang 2.1 esta en BennuGD, pero anteriormente estaba en Fenix 0.91. Esta versión es la mas estable, pero si estás buscando una versión con mas modos y mejor diseño a cambio de poca estabilidad, entonces ve por la 2.0
@@ -15,6 +14,11 @@ PiX Pang 2.1 esta en BennuGD, pero anteriormente estaba en Fenix 0.91. Esta vers
 Playtime promedio: **3 - 4 horas** probando todos los modos.
 
 **Esta versión funciona en Windows 7, 10 y 11**
+
+# PiX Pang 2.1 (Android)
+
+Esta versión en si es muy inferior a la versión de PC, ya que en gráficos esta muy reducido, pero seguro es para que no ande mal en ciertos dispositivos.
+Si tienes un celular, pues, juega esta versión.
 
 # PiX Pang 2.0
 Esta versión contiene el viejo menú (que es mucho mejor que el de la 2.1), el Safari Mode y el editor de niveles (que esta completamente roto), esta compilado en Fenix 0.84b, lo cual significa que solo tiene soporte para Windows XP y algun otro sistema operativo anterior. Esta versión tiene bugs y poca estabilidad, pero es jugable.
