@@ -45,17 +45,17 @@ El mismo nombre lo dice, lo unico que puedo decir es que es muy poco intuitivo, 
 
 # Jugar por LAN
 Aunque panreyes haya puesto que se agrego para jugar en la red (probablemente por LAN, imaginate que fueran servidores xd), no hay ninguna forma de activar esto. 
-Si quieres jugar con otra persona, solo necesitas que este en tu misma casa y use un ratón, o conecte un joystick y use un programa para hacerlo funcionar. Tal vez el futuro nos dara una solución a esto y lo hara mas fácil, ya que estamos en cuarentena xD.
+Si quieres jugar con otra persona, solo necesitas que este en tu misma casa y use un ratón, o conecte un joystick y use un programa para hacerlo funcionar.
 
-Por el momento es imposible jugar a travez de LAN o red, esto requiere cambiar el código fuente del juego y obviamente, hacer demasiado trabajo.
+Por el momento es imposible jugar a travez de LAN o red en la 2.1, pero en la 2.0 existe un código sobre esto, lo unico es que falta la libreria y encima es medio costoso habilitarlo.
 
 # Mejoras para alguna modificación de PiX Pang
 Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
 1. ¡Mas fondos y niveles! Seria muy cool la verdad, porque por el momento el juego es muy corto, y los modos extra solo añaden unos minutos extra de juego, con el tema de los fondos, que tengan la misma estetica que usa el juego xD.
-2. Editor de niveles, aunque esto existe en la 2.0 (pero no en la 2.1), es muy poco intuitivo y además no se puede cambiar de fondo.
+2. Editor de niveles, aunque esto existe en la 2.0 (pero no en la 2.1), es muy poco intuitivo (Además de que, no funciona...)
 3. Arreglar los bugs de la 2.1, claro.
-4. ¿Multijugador LAN? Seria cool, pero no se si BennuGD o Fenix permite eso.
-5. El menú de la 2.0, el de la 2.1 no es que sea horrible, pero no me gusta como el de la 2.0
+4. ¿Multijugador LAN? En si en la 2.0 existe pero habilitarlo es algo muy costoso.
+5. El menú de la 2.0 devuelta a la 2.1
 
 # Notas de los desarrolladores para cambiar el juego (2007)
 - Para cambiar los fondos simplemente sustituye los fondos de la carpeta fondos, podéis mirar la resolución de los fondos en los fondos mismos.
@@ -67,9 +67,9 @@ Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
 
 # Diferencias entre la 2.0 y la 2.1
 1. En la 2.0 hay un mejor menu que en la 2.1
-2. En la 2.0, se puede pausar en las partidas, mientras que en la 2.1 se puede hacer lo mismo, en la 2.0 no se reinicia el progreso hecho en cierto nivel.
-3. En la 2.0, hay una mejor intro que en la 2.1
-4. En la 2.0, se pueden elegir personajes, mientras que en la 2.1 no puedes.
+2. En la 2.0, hay una mejor intro que en la 2.1
+3. En la 2.0, se pueden elegir personajes, mientras que en la 2.1 no puedes.
+4. En la 2.0, puedes tener a un segundo jugador para que juegue con el mouse (demasiado util) pero en la 2.1 ya no existe.
 5. En la 2.0, esta el modo safari, mientras que en la 2.1 no esta.
 
 # Bugs de la 2.1
@@ -80,11 +80,10 @@ Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
 # Bugs de la 2.0
 Aquí una lista de bugs en la 2.0 que yo conozco.
 
-1. En el modo aventura, cuando se pasa de nivel, algunos fondos se saltan. (No se puede arreglar)
-2. Hay bugs de gráficos al cambiar de ventanas, no se si esto es un bug de VMWare Workstation (muy probable) o del juego. (Requiere un reinicio del juego para arreglar) (Para evitar este problema: Pon el juego a pantalla completa. **Options > Pantalla Completa**)
-3. Al elegir al segundo jugador como la computadora, si iniciamos una partida, salimos y elegimos que no queremos ningun segundo jugador, al iniciar otra partida, se escuchara el sonido de disparo infinitamente. (Requiere reinicio del juego para arreglar)
-4. A veces, si agarras demasiados poderes de ralentización en el modo aventura, este puede quedar hasta que termine la ronda.
-5. En el nivel 15, el juego se puede crashear a lo random. Asegurate de guardar tu partida antes. 
+1. Al elegir al segundo jugador como la computadora, si iniciamos una partida, salimos y elegimos que no queremos ningun segundo jugador, al iniciar otra partida, se escuchara el sonido de disparo infinitamente. (Requiere reinicio del juego para arreglar)
+2. A veces, si agarras demasiados poderes de ralentización en el modo aventura, este puede quedar hasta que termine la ronda.
+3. En el nivel 15, el juego se puede crashear a lo random. Asegurate de guardar tu partida antes. 
+4. Hay veces que las partidas no se guardan, en vez de eso, el juego se crashea.
 
 # Bugs de la 1.6 beta
 1. Al elegir un segundo jugador como computadora y después poner que no queremos a un segundo jugador, el juego lo tomara como que queremos un segundo jugador como computadora (solo pasa especificamente al elegir la computadora).
@@ -106,3 +105,6 @@ Eso significa que, lo mas probable, la versión que se demuestra en la foto sea 
 PiX Pang 1.5: https://web.archive.org/web/20050204194455/http://www.softonic.com/ie/37646/
 PiX Pang 1.6 final: https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.php
 PiX Pang 1.6c: https://web.archive.org/web/20131103194219/https://www.todato.net/software/verprograma-37646.php y https://www.cdlibre.org/descargar/covers/2006/200603/cdlibre.org_CajaCD_CDJuegos_200603.pdf
+
+# Jugar PiX Pang 2.1 con 2 jugadores
+Es muy fácil, simplemente conecta un joystick generico y listo, ve a new game y te pondra la elección de 1 jugador o 2 jugadores.
