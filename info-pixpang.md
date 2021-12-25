@@ -99,7 +99,8 @@ He conseguido una mejor foto, pero la verdad no se de que versión se trata.
 
 Update 14/11/2021: Lo he pensado mejor y bueno, quiero aclarar una cosa.
 En la 1.6b están los FPG viejos, pero, en la 1.6d, están los FPG que conocemos hoy en día.
-Eso significa que, lo mas probable, la versión que se demuestra en la foto sea la 1.6c, la cual todavia no he llegado a encontrar.
+
+PD: La versión es la 1.6c, que se pudo encontrar afortunadamente xD.
 
 # Versiones que SI existen pero no sabemos si existen descargas.
 PiX Pang 1.5: https://web.archive.org/web/20050204194455/http://www.softonic.com/ie/37646/
@@ -108,3 +109,11 @@ PiX Pang 1.6c: https://web.archive.org/web/20131103194219/https://www.todato.net
 
 # Jugar PiX Pang 2.1 con 2 jugadores
 Es muy fácil, simplemente conecta un joystick generico y listo, ve a new game y te pondra la elección de 1 jugador o 2 jugadores.
+
+# Personajes navideños
+En PiX Pang 2.0 y PiX Pang 2.1, el 24 y 25 de diciembre se activan lo que serían los personajes navideños. Esto aplica para PiX y PuX.
+En versiones anteriores no he visto personajes clásicos con un modo clásico (ejem: 1.6a).
+
+# Tiempo bala | Ancla
+Resulta que el sonido de este poder esta generado por la boca de panreyes + edición de audio xD.
+https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.php
