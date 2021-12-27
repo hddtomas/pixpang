@@ -8,10 +8,12 @@ Si ya les cansa la música o les molesta, es tan fácil como ir a opciones y des
 
 # Página web anterior a PiX Juegos
 https://web.archive.org/web/20061212200727/http://pixpang.pixjuegos.com/web/
-De aqui he sacado el PiX Pang 1.6d, vere que mas hay.
+De aqui he sacado el PiX Pang 1.6d, lamentablemente no hay más contenido pero bueno.
 
-# Personajes de PiX Pang
-Simplemente, interesante xD. https://danigm.wordpress.com/2005/10/26/pix-pang/
+# Origen de los personajes de PiX Pang
+https://danigm.wordpress.com/2005/10/26/pix-pang/
+
+Este blog muestra a DaniGM haciendo los personajes de PiX Pang (PiX y PuX).
 
 
 # Entrevista a PiX Juegos
@@ -22,32 +24,30 @@ Gracias a esta entrevista podemos saber de que los fondos del juego son fotos de
 
 # Código fuente de algunos proyectos
 El código fuente de PiX Pang + otros proyectos de PiX Juegos, los encontraras aquí: https://github.com/tomiiiiiiiii/pixjuegos
-De suerte lo pude guardar a tiempo.. Ya que panreyes saco el código fuente de todos los juegos.
-Ahora, si los quieres compilar, ya es trabajo tuyo, lo unico que puedo decirte es que si estás tratando de compilar un juego del 2005 o 2004, usa Fenix 0.83 o 0.84, si quieres compilar un juego del 2006 al 2014, usa BennuGD (ultima release) o Fenix 0.93.
+De suerte lo pude guardar a tiempo.. ya que panreyes saco el código fuente de todos los juegos, al día de hoy no entiendo porque.
 
 # Versiones no encontradas
 Ya he buscado en internet, incluso en la Wayback Machine, pero no hay nada. 
 
-Lo unico que he llegado a encontrar fue la 1.6b (b de beta supongo?) y la 1.6d por ahi.
+Lo unico que he llegado a encontrar fue la 1.6b y la 1.6d por ahi.
 https://archivos.abcdatos.com/programas/Z/Z2691/pixpang16.tar.bz2
 
 Y también la versión 0.6, que en mi opinión, es muy rara.
 Esta versión esta en el lugar de releases, es 100% jugable, aunque la verdad no lo recomiendo jugar por el escaso contenido que tiene y lo aburrido que es.
 Tiene demasiadas similitudes con la 1.6b, como por ejemplo, fondos iguales, creo que los mismos sonidos (**?**) y entre otros, así que lo considero como una versión vieja de PiX Pang en vez de un juego extra.
 
-En el futuro, veremos si hay nuevas versiones, o simplemente nada.
+En el futuro, veremos si hay nuevas versiones, o simplemente nada (hasta ahora he encontrado la 1.6c, la 2.1 del 2010, un apk, un mod y nada más).
 
 # Modo Safari
-Este modo de juego esta disponible en versiones anteriores a la 2.1 (osea, 2.0 y capaz 1.6b, en la 0.6 este modo ya no esta disponible), ya que fue eliminado en la 2.1. Se trata de lanzar huevos a bolas que aparecen a la derecha de la pantalla, luego de destruir todas las bolas (que generalmente son 200 las que tienes que destruir, o, a veces, un poco menos), peleas contra un personaje que tiene 5 vidas, no es tan complicado, aunque los controles cambian demasiado. Por ejemplo, para apuntar se usa las teclas o el mouse, y para tirar huevos, se usa el click izquierdo, son controles muy diferentes a los del modo aventura.
+Este modo de juego esta disponible en versiones anteriores a la 2.1 (menos la 0.6), ya que fue eliminado en la 2.1. Se trata de lanzar huevos a bolas que aparecen a la derecha de la pantalla, luego de destruir todas las bolas (que generalmente son 200 o 100 la cantidad que tienes que destruir), peleas contra un personaje (PuX exactamente) que tiene 5 vidas, no es tan complicado. Este modo de juego es obviamente un extra ya que en los juegos originales de Pang, no existe este modo. 
+
+Aunque parezca que puedes hacer un VS contra otro jugador, no se permite un segundo jugador lamentablemente.
 
 # Editor de niveles
 El mismo nombre lo dice, lo unico que puedo decir es que es muy poco intuitivo, en vez de ser una interfaz, es puro texto, hubiera sido buenisimo un sistema de drag and click pero bueno. Para jugar en niveles personalizados (solo 2.0, ya que en la 2.1 no existe), ve a play, clickea en custom mode y empieza a jugar. Además si no me equivoco, no se puede cambiar de fondo, para hacer esto, se necesita modificar el juego.
 
 # Jugar por LAN
-Aunque panreyes haya puesto que se agrego para jugar en la red (probablemente por LAN, imaginate que fueran servidores xd), no hay ninguna forma de activar esto. 
-Si quieres jugar con otra persona, solo necesitas que este en tu misma casa y use un ratón, o conecte un joystick y use un programa para hacerlo funcionar.
-
-Por el momento es imposible jugar a travez de LAN o red en la 2.1, pero en la 2.0 existe un código sobre esto, lo unico es que falta la libreria y encima es medio costoso habilitarlo.
+Jugar en LAN es imposible, lamentablemente, pero en la 2.0 hay un código para jugar en LAN. Lo más probable es que este incompleto y además no hay ninguna forma de activar este modo, también hay que aclarar que falta la libreria "net.dll".
 
 # Mejoras para alguna modificación de PiX Pang
 Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
