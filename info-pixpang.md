@@ -117,3 +117,12 @@ En versiones anteriores no he visto personajes clásicos con un modo clásico (e
 # Tiempo bala | Ancla
 Resulta que el sonido de este poder esta generado por la boca de panreyes + edición de audio xD.
 https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.php
+
+# ¿Archive de PiX Pang en PSP?
+
+Hoy (27/12/2021) he encontrado un archive de una versión de pix pang en psp.
+https://archive.org/details/pix-pang-22.7z
+
+# PiX Pang 2.0 en Dreamcast
+Ya se que ya existe PiX Pang en Dreamcast pero supuestamente esta versión esta actualizada a BennuGD + esta mejor optimizada, lo cual es muy pero muy interesante. Lo malo es que no se puede descargar.
+https://www.dreamcast.es/infusions/downloads/downloads.php?cat_id=11&download_id=214
