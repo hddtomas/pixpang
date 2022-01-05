@@ -126,3 +126,8 @@ https://archive.org/details/pix-pang-22.7z
 # PiX Pang 2.0 en Dreamcast
 Ya se que ya existe PiX Pang en Dreamcast pero supuestamente esta versión esta actualizada a BennuGD + esta mejor optimizada, lo cual es muy pero muy interesante. Lo malo es que no se puede descargar.
 https://www.dreamcast.es/infusions/downloads/downloads.php?cat_id=11&download_id=214
+
+# Modo Debug en PiX Pang 2.0
+Hay un modo debug que se activa pulsando las siguientes teclas:
+D + B + G y después la M.
+(DBG de debug, y M de mode xD)
