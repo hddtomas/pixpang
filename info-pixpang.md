@@ -103,8 +103,8 @@ En la 1.6b están los FPG viejos, pero, en la 1.6d, están los FPG que conocemos
 PD: La versión es la 1.6c, que se pudo encontrar afortunadamente xD.
 
 # Versiones que SI existen pero no sabemos si existen descargas.
-PiX Pang 1.5: https://web.archive.org/web/20050204194455/http://www.softonic.com/ie/37646/
-PiX Pang 1.6 final: https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.php
+PiX Pang 1.5
+PiX Pang 1.4
 
 # Jugar PiX Pang 2.1 con 2 jugadores
 Es muy fácil, simplemente conecta un joystick generico y listo, ve a new game y te pondra la elección de 1 jugador o 2 jugadores.
@@ -119,7 +119,7 @@ https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.ph
 
 # ¿Archive de PiX Pang en PSP?
 
-Hoy (27/12/2021) he encontrado un archive de una versión de PiX Pang en psp.
+Hoy (27/12/2021) he encontrado un archive de una versión de PiX Pang en PSP.
 https://archive.org/details/pix-pang-22.7z
 
 # PiX Pang 2.0 en Dreamcast
