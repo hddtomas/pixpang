@@ -5,8 +5,8 @@ Requisitos para compilar:
 Fenix 0.84 ([Click aquí](https://web.archive.org/web/20050211004716/https://fenix.divsite.net/ "Click aquí") | **Descargas > Fenix-0.84b-win32-binary.zip**)
 
 Requisitos para iniciar:
-PC / Máquina virtual con Windows XP o inferior
-Conocimiento minimo de lo que vas a hacer
+- PC / Máquina virtual con Windows XP o inferior 
+- Por lo menos un poco de conocimiento minimo de lo que vas a hacer
 
 Una vez que tengamos todo esto, se debe ir a la carpeta del juego y luego a la carpeta src, donde deberian estar todos los archivos fuente del juego listos para compilar. Una vez hecho eso, deberiamos encontrar un archivo BAT para compilar el juego, en caso de que este no exista, creamos un archivo bat y ponemos el siguiente código:
 ```bash
