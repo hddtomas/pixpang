@@ -122,11 +122,18 @@ https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.ph
 Hoy (27/12/2021) he encontrado un archive de una versión de PiX Pang en PSP.
 https://archive.org/details/pix-pang-22.7z
 
-# PiX Pang 2.0 en Dreamcast
-Ya se que ya existe PiX Pang en Dreamcast pero supuestamente esta versión esta actualizada a BennuGD + esta mejor optimizada, lo cual es muy pero muy interesante. Lo malo es que no se puede descargar.
-https://www.dreamcast.es/infusions/downloads/downloads.php?cat_id=11&download_id=214
-
 # Modo Debug en PiX Pang 2.0
 Hay un modo debug que se activa pulsando las siguientes teclas:
 D + B + G y después la M.
 (DBG de debug, y M de mode xD)
+
+# Port de PiX Pang a la Dreamcast
+PiX Pang tiene un port a la Dreamcast y es este:
+https://www.pixjuegos.com/descargas/pixpang-2.1-dreamcast.zip
+
+También existe un video sobre el port y aquí está (Lanzado desde SDReader):
+https://www.youtube.com/watch?v=molav3hI3EQ&ab_channel=DCeric
+
+Hace unos años (7 años apróximadamente) fue lanzado un port a la Dreamcast pero esta vez fue porteado con BennuGD, la noticia esta aca:
+https://dreamcast-news.blogspot.com/2015/08/pixpang-v22.html?spref=tw
+(Abajo de todo se puede descargar el port, no lo he probado todavía asi que no puedo asegurar de que funciona)
