@@ -4,33 +4,36 @@ Bienvenido al repositorio sobre el juego PiX Pang!
 
 En este repositorio, lo que hare es acumular versiones y información del juego.
 
-**QUIERO ACLARAR QUE ESTE NO ES MI JUEGO.** Por favor, si te gusta, dale apoyo a pixjuegos.com o a panreyes y los demás desarrolladores de PiX Pang, no a mi, yo solo estoy buscando versiones y brindando información. Gracias.
+**QUIERO ACLARAR QUE ESTE NO ES MI JUEGO.** Por favor, si te gusta, dale apoyo a pixjuegos.com o a panreyes y a los demás desarrolladores de PiX Pang, no a mi, yo solo estoy buscando versiones y brindando información. **Gracias**.
 
 
 # PiX Pang 2.1 (el que esta en pixjuegos.com en la actualidad)
-Esta es la ultima versión de PiX Pang, que se puede conseguir en la página de PiX Juegos, además dispone menos cosas que la versión 2.0, así que si buscas algo mejor pero un poco menos estable, ve por la 2.0.
+Esta es la ultima versión de PiX Pang, que se puede conseguir en la página de PiX Juegos, a diferencia de la 2.0, esta versión contiene muchas menos cosas que la 2.0 y se desconoce el motivo de porque, así que si buscas algo mejor pero un poco menos estable, ve por la 2.0.
 Esta versión esta compilada en BennuGD, en una build de 2012, además de que es compatible con sistemas operativos Windows Vista y superiores (hasta Windows 11). 
 
 Playtime promedio: **3 - 4 horas** probando todos los modos.
 
 # PiX Pang 2.1 (Mobil)
 
-Esta versión esta disponible solo para Android, además es la misma versión que esta (o estaba) disponible en la consola Ouya.
-No recomiendo jugarlo pues es una versión muy reducida y muy aburrida, además no esta diseñada para mobiles modernos.
+Esta versión esta disponible solo para Android (una versión muy antigua), además es la misma versión que está (o estaba) disponible en la consola Ouya, solo que en Ouya tiene mayor resolución y algunos cambios gráficos.
+No recomiendo jugarlo pues es una versión muy reducida y muy aburrida, además no esta diseñada para mobiles modernos y **puede no funcionar**.
 
 Playtime promedio: no lo he probado mucho.
 
 # PiX Pang 2.1 (2010)
 
 Esta versión es igual a la 2.1 solo que no tiene ningún fondo y además que esta compilado en Fenix 0.93.
-También esta en español, mientrás que la última versión esta en inglés.
+También está en español, mientrás que la última versión está en inglés.
+
+**(Algo me dice que esta versión fue compilada por error)**
 
 Playtime promedio: mismo playtime que la 2.1 actual.
 
 # PiX Pang 2.0
-Esta versión contiene el viejo menú (que es mucho mejor que el de la 2.1), el Safari Mode y el editor de niveles, esta compilado en Fenix 0.84b, lo cual significa que solo tiene soporte para Windows XP y otros sistemas operativos inferiores. Esta versión no es muy estable, pero es jugable.
+Esta versión contiene el viejo menú (que es mucho mejor que el de la 2.1), el Safari Mode y el editor de niveles. Esta versión fue compilado en Fenix 0.84b, lo cual significa que solo tiene soporte para Windows XP y otros sistemas operativos inferiores. Esta versión no es muy estable que digamos, pero es jugable.
 
 Lo que recomiendo hacer para jugarlo es montar una máquina virtual en VMWare Workstation, después instalarlo y todo lo demás es trabajo tuyo :)
+Y si quieres pasar a algo mas difícil, puedes montar una máquina virtual con Ubuntu, instalar Wine y jugarlo desde ahí (Sí, anda que digamos mas o menos perfecto) 
 
 Playtime promedio: **3 - 5 horas** probando todos los modos.
 
