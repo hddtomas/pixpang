@@ -5,6 +5,7 @@ Como ya sabran, en PiX Pang 2.1, en vez de venir con una carpeta con todos los a
 Para acceder a los archivos de la versión 2.1, se debe abrir el juego y luego ir al administrador de tareas, ir a la sección detalles y buscar pixpang.exe, le damos click derecho y luego "Abrir ubicación del archivo", una vez hecho todo eso, ya estaremos en la carpeta del juego, la cual esta ubicada en una parte de la carpeta %temp% de Windows.
 
 # Páginas web anterior al pixjuegos.com que conocemos hoy en día:
+Esta es la lista de páginas donde se almacenaban archivos y información de PiX Pang:
 https://web.archive.org/web/20061212200727/http://pixpang.pixjuegos.com/web/
 https://web.archive.org/web/20050202142303/http://pixpang.nodani.com/
 https://web.archive.org/web/20060720190333/http://pixpang.panreyes.com/
@@ -14,6 +15,8 @@ https://web.archive.org/web/20031103020916/http://pixpang.cjb.net/
 https://danigm.wordpress.com/2005/10/26/pix-pang/
 
 Este blog muestra a DaniGM haciendo los personajes de PiX Pang (PiX y PuX).
+Curiosidad: Pang Zero (Otro clon de Super Pang) usaba los sprites de los personajes de PiX Pang, hasta que DaniGM les hizo uno:
+https://danigm.wordpress.com/2006/09/07/graficos-para-pang-zero/
 
 # Entrevista a PiX Juegos
 
