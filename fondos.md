@@ -134,6 +134,20 @@ Probablemente Sierra de Mijas (Andalucía, España) (o un lugar cercano?)
 
 Jardín Botánico de la Universidad de Málaga (Málaga, España)
 
+![29](https://user-images.githubusercontent.com/78988582/191626526-2d1f7a3c-abc7-451b-8567-2590bc88657d.jpg)
+
+Saber el origen de la imagen es imposible pues parece que tiene mucha antiguedad y ha sido usado muchas veces para portadas de canciones. 
+El tocadiscos de la imagen es un Technics SL-1200MK3D, supongo que esto es suficiente.
+(Una cosa importante es que se pueden encontrar imagenes extendidas de la imagen, aunque bueno, no tan extendidas realmente)
+
+![58](https://user-images.githubusercontent.com/78988582/191627372-cab0524b-3acb-434a-8478-8f27d9819f27.jpg)
+
+Biblioteca General de la Universidad de Málaga (Málaga, España)
+
+![30](https://user-images.githubusercontent.com/78988582/191628254-2f3e2118-a856-491a-8b36-d0590bf8fbee.jpg)
+
+Aparcamiento (29010 Málaga, España)
+
 Aquí termina la lista de imagenes donde se conoce su ubicación o es incierta.
 
 # Fondos que no se pudieron encontrar pero son interesantes
