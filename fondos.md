@@ -38,7 +38,7 @@ Hotel Venecia (Alameda Principal, 9, 29001 Málaga, España)
 
 ![18](https://user-images.githubusercontent.com/78988582/190263614-8a53c554-82a2-4971-a9e8-67d32ade9c39.jpg)
 
-San Sebástian (España)
+San Sebástian (España) (Es un evento llamado Semana Grande de San Sebástian)
 
 ![61](https://user-images.githubusercontent.com/78988582/190263657-6f731298-b73a-40d1-a2d8-5478ac80adb7.jpg)
 
