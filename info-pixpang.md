@@ -123,3 +123,11 @@ Este port sinceramente está muy bugeado y no tiene muchas cosas, pero es jugabl
 Hace unos años (7 años apróximadamente) fue lanzado un port a la Dreamcast pero esta vez fue porteado con BennuGD, la noticia está aca:
 https://dreamcast-news.blogspot.com/2015/08/pixpang-v22.html?spref=tw
 (Abajo de todo se puede descargar el port, no lo he probado todavía asi que no puedo asegurar de que funciona)
+
+# Final de PiX Pang
+El final está inspirado en un anime llamado Chobits:
+![0210](https://user-images.githubusercontent.com/78988582/201530300-3b915005-f7ae-4657-a86b-20ec482ac6ec.jpg)
+y
+https://www.youtube.com/watch?v=KfzU_LBaDys&ab_channel=regn13ev
+
+
