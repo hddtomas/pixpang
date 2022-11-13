@@ -63,51 +63,30 @@ Si alguien llega a hacer esto, pues, aquí una lista de mejoras para el juego:
 - Para cambiar los fondos simplemente sustituye los fondos de la carpeta fondos, podéis mirar la resolución de los fondos en los fondos mismos.
 - Para cambiar los gráficos del juego ya tendréis que utilizar una herramienta de Fénix, llamada FPG Edit y ya buscaros la vida para sustituir los gráficos de los ficheros FPG en la carpeta FPG. No es muy complicado, simplemente conocerlo un poco. Luego hay algún que otro gráfico en la carpeta cosas. (https://bitbucket.org/dacucar/smart-fpg-editor/src/master/)
 - Para cambiar las músicas están en la carpeta cd-ogg. Necesitaréis convertir las músicas (wav,mp3,wma,...) al formato OGG, os recomiendo dbPowerAmp.
-- Para cambiar los niveles que hay actualmente tenéis que utilizar el editor de niveles integrado en PiX Pang. Los niveles los guarda en la carpeta pantallas, pero luego podéis coger esos mismos niveles y sustituir los de la carpeta tour.
+- Para cambiar los niveles que hay actualmente tenéis que utilizar el editor de niveles integrado en PiX Pang. Los niveles los guarda en la carpeta pantallas, pero luego podéis coger esos mismos niveles y sustituir los de la carpeta tour. (**NOTA:** No puedes crear jefes ni nada a menos que cambies el código fuente)
 - Para cambiar los sonidos, están en la carpeta wav.
-- Y para cambiar el juego directamente tenéis el código fuente en la carpeta src. (pixpang.prg)
-
-# Diferencias entre la 2.0 y la 2.1
-1. En la 2.0 hay un mejor menuú que en la 2.1
-2. En la 2.0, hay una mejor intro que en la 2.1
-3. En la 2.0, se pueden elegir personajes, mientras que en la 2.1 no puedes.
-4. En la 2.0, puedes tener a un segundo jugador para que juegue con el mouse (demasiado util) pero en la 2.1 ya no existe.
-5. En la 2.0, esta el modo safari, mientras que en la 2.1 no esta.
+- Y para cambiar el juego directamente tenéis el código fuente en la carpeta src. (pixpang.prg y otros archivos)
 
 # Bugs de la 2.1
-1. Salir de la ventana con la tecla **Windows** hara que el mouse se bugee. Esto no pasa en la 2.0 (Para arreglarlo, presiona **Ctrl + Alt + Supr**, clickea en administrador de tareas y termina el proceso BennuGD, si quieres que esto no pase mas, juega en modo ventana)
-2. Al cargar una partida, el score y las vidas se resetean, en el caso del score, se resetea a 0, y las vidas se resetean a 10. Puedes aprovechar este bug para no perder en el modo aventura.
+1. Salir de la ventana con la tecla **Windows** hara que el mouse se bugee. Esto no pasa en la 2.0 (Para arreglarlo, presiona **Ctrl + Alt + Supr**, clickea en administrador de tareas y termina el proceso BennuGD o pixpang.exe, si quieres que esto no pase mas, juega en modo ventana, que es lo más recomendable considerando la baja resolución que inicia el juego)
+2. Al cargar una partida, el score y las vidas se resetean, en el caso del score, se resetea a 0, y las vidas se resetean a 10. Puedes aprovechar este bug para no perder en el modo aventura aunque la verdad siento que esto arruina un poco el gameplay.
 
 # Bugs de la 2.0
 Aquí una lista de bugs en la 2.0 que yo conozco.
 
 1. Al elegir al segundo jugador como la computadora, si iniciamos una partida, salimos y elegimos que no queremos ningun segundo jugador, al iniciar otra partida, se escuchara el sonido de disparo infinitamente. (Requiere reinicio del juego para arreglar)
-2. A veces, si agarras demasiados poderes de ralentización en el modo aventura, este puede quedar hasta que termine la ronda.
-3. En el nivel 15, el juego se puede crashear a lo random. Asegurate de guardar tu partida antes. 
+2. A veces, si agarras demasiados poderes de ralentización en el modo aventura (y probablemente en niveles personalizados), este puede quedar hasta que termine el nivel.
+3. En el nivel 15, el juego se puede crashear. Asegurate de guardar tu partida antes. 
 4. Hay veces que las partidas no se guardan, en vez de eso, el juego se crashea.
 5. Hay veces que al cargar una partida, el juego se crashea. (Esto no pasa más de una vez)
-6. Jugar por mucho tiempo puede causar que los niveles carguen mal. 
+6. Jugar por mucho tiempo puede causar que los niveles carguen mal y la partida no se guarden correctamente. (Esto pasa cuando se deja un nivel pausado por demasiado tiempo, y con demasiado tiempo me refiero a más de 2 horas) 
 
 # Bugs de la 1.6 beta
 1. Al elegir un segundo jugador como computadora y después poner que no queremos a un segundo jugador, el juego lo tomara como que queremos un segundo jugador como computadora (solo pasa especificamente al elegir la computadora).
 
-# Versión desconocida
-https://www.abcdatos.com/programa/plataformas-disparos-pang.html
-
-En la miniatura del juego, se puede ver una foto de una versión anterior a la 2.0
-No es la 1.6b o la 1.6d, no se de que versión se trata, habría que buscarlo.
-
-Update 17/10/2021: https://pix-pang.softonic.com/ 
-He conseguido una mejor foto, pero la verdad no se de que versión se trata.
-
-Update 14/11/2021: Lo he pensado mejor y bueno, quiero aclarar una cosa.
-En la 1.6b están los FPG viejos, pero, en la 1.6d, están los FPG que conocemos hoy en día.
-
-PD: La versión es la 1.6c, que se pudo encontrar afortunadamente xD.
-
 # Versiones que SI existen pero no sabemos si existen descargas.
-PiX Pang 1.5
-PiX Pang 1.4
+PiX Pang 1.5 y PiX Pang 1.4
+Que yo sepa estas versiones son imposibles de conseguir.
 
 # Jugar PiX Pang 2.1 con 2 jugadores
 Es muy fácil, simplemente conecta un joystick generico y listo, ve a new game y te pondra la elección de 1 jugador o 2 jugadores.
@@ -116,8 +95,8 @@ Es muy fácil, simplemente conecta un joystick generico y listo, ve a new game y
 En PiX Pang 2.0 y PiX Pang 2.1, el 24 y 25 de diciembre se activan lo que serían los personajes navideños. Esto aplica para PiX y PuX.
 En versiones anteriores no he visto personajes clásicos con un modo clásico (ejem: 1.6a).
 
-# Tiempo bala | Ancla
-Resulta que el sonido de este poder esta generado por la boca de panreyes + edición de audio xD.
+# Tiempo bala | Ancla (Curiosidad)
+Resulta que el sonido de este poder esta generado por la boca de panreyes + edición de audio.
 https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.php
 
 # ¿Archive de PiX Pang en PSP?
@@ -125,10 +104,12 @@ https://web.archive.org/web/20050206112725/http://pixpang.nodani.com/es/index.ph
 Hoy (27/12/2021) he encontrado un archive de una versión de PiX Pang en PSP.
 https://archive.org/details/pix-pang-22.7z
 
+(13/11/2022) Hasta el día de hoy no lo he probado, cuando tenga tiempo (mediados de diciembre probablemente) voy a probar esta versión junto a la de Dreamcast. 
+
 # Modo Debug en PiX Pang 2.0
 Hay un modo debug que se activa pulsando las siguientes teclas:
 D + B + G y después la M.
-(DBG de debug, y M de mode xD)
+(DBG de debug, y M de mode)
 
 # Port de PiX Pang a la Dreamcast
 PiX Pang tiene un port a la Dreamcast y es este:
@@ -137,6 +118,8 @@ https://www.pixjuegos.com/descargas/pixpang-2.1-dreamcast.zip
 También existe un video sobre el port y aquí está (Lanzado desde SDReader):
 https://www.youtube.com/watch?v=molav3hI3EQ&ab_channel=DCeric
 
-Hace unos años (7 años apróximadamente) fue lanzado un port a la Dreamcast pero esta vez fue porteado con BennuGD, la noticia esta aca:
+Este port sinceramente está muy bugeado y no tiene muchas cosas, pero es jugable.
+
+Hace unos años (7 años apróximadamente) fue lanzado un port a la Dreamcast pero esta vez fue porteado con BennuGD, la noticia está aca:
 https://dreamcast-news.blogspot.com/2015/08/pixpang-v22.html?spref=tw
 (Abajo de todo se puede descargar el port, no lo he probado todavía asi que no puedo asegurar de que funciona)
