@@ -126,8 +126,10 @@ https://dreamcast-news.blogspot.com/2015/08/pixpang-v22.html?spref=tw
 
 # Final de PiX Pang
 El final está inspirado en un anime llamado Chobits:
+
 ![0210](https://user-images.githubusercontent.com/78988582/201530300-3b915005-f7ae-4657-a86b-20ec482ac6ec.jpg)
-y
+
+
 https://www.youtube.com/watch?v=KfzU_LBaDys&ab_channel=regn13ev
 
 
