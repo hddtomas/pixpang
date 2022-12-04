@@ -130,7 +130,7 @@ Monda (Andalucía, España)
 
 ![51](https://user-images.githubusercontent.com/78988582/190265189-1133f96f-a445-419e-987a-ed1b8ff91879.jpg)
 
-Probablemente Sierra de Mijas (Andalucía, España) (o un lugar cercano?)
+Sierra de Mijas (Andalucía, España) (La ubicación de donde se tomó la foto es imposible de saber, pero es un lugar un poco cercano)
 
 ![57](https://user-images.githubusercontent.com/78988582/190932596-b41f47ef-8e38-444c-88b8-9176452fd85e.jpg)
 
