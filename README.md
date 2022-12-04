@@ -6,6 +6,9 @@ En este repositorio, lo que hare es acumular versiones y información del juego.
 
 **QUIERO ACLARAR QUE ESTE NO ES MI JUEGO.** Por favor, si te gusta, dale apoyo a pixjuegos.com o a panreyes y a los demás desarrolladores de PiX Pang, no a mi, yo solo estoy buscando versiones y brindando información. **Gracias**.
 
+Otra cosa, ya revisé todo lo de PiX Pang (ya para mi, encontrar nueva información es imposible), solo me faltan documentar algunas cosas que encontre, que creo que lo haré dentro de poco.
+
+Por ahora seguire buscando el origen de los fondos de PiX Pang.
 
 # PiX Pang 2.1 (el que esta en pixjuegos.com en la actualidad)
 Esta es la ultima versión de PiX Pang, que se puede conseguir en la página de PiX Juegos, a diferencia de la 2.0, esta versión contiene muchas menos cosas que la 2.0 y se desconoce el motivo de porque (la jugabilidad sigue siendo la misma, solo que hay menos modos), así que si buscas algo que divierta un poco más y te asegure al menos 20 minutos de juego más, ve por la 2.0.
