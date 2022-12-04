@@ -1,5 +1,7 @@
 # Ubicaciones (y en algunos muy pocos casos, origenes) de los fondos de PiX Pang
 
+Info: Esta busqueda empezó hace un tiempo ya (1 año) pero termine perdiendo el txt con toda la información y eso me desmotivó demasiado, hasta que recientemente (14/09/22) se siguió la busqueda.
+
 ![19](https://user-images.githubusercontent.com/78988582/190262990-b155028f-851a-4fac-9257-23718c1f6fc4.jpg)
 
 Playa Peñon del Cuervo (Málaga, España)
@@ -136,9 +138,9 @@ Jardín Botánico de la Universidad de Málaga (Málaga, España)
 
 ![29](https://user-images.githubusercontent.com/78988582/191626526-2d1f7a3c-abc7-451b-8567-2590bc88657d.jpg)
 
-Saber el origen de la imagen es imposible pues parece que tiene mucha antiguedad y ha sido usado muchas veces para portadas de canciones. 
-El tocadiscos de la imagen es un Technics SL-1200MK3D, supongo que esto es suficiente.
-(Una cosa importante es que se pueden encontrar imagenes extendidas de la imagen, aunque bueno, no tan extendidas realmente)
+Saber el origen de la imagen es imposible pues parece que tiene mucha antiguedad y ha sido usado muchas veces para portadas de canciones. (No sé cual es la original, para ser honesto, pero también esta imagen la tienen algunos de foto de perfíl en foros o de banner en twitter) 
+El tocadiscos de la imagen es un Technics SL-1200MK3D, supongo que esto es suficiente y con eso basta.
+(Una cosa importante es que se pueden encontrar imagenes extendidas de la imagen, aunque bueno, no tan extendidas realmente, solo unos pixeles más)
 
 ![58](https://user-images.githubusercontent.com/78988582/191627372-cab0524b-3acb-434a-8478-8f27d9819f27.jpg)
 
@@ -157,3 +159,26 @@ Aquí termina la lista de imagenes donde se conoce su ubicación o es incierta.
 # Fondos que no se pudieron encontrar pero son interesantes
 
 TBD.
+
+# Fondos no encontrados
+4.jpg
+5.jpg
+3.jpg
+1.jpg
+10.jpg
+20.jpg
+21.jpg
+25.jpg
+26.jpg
+27.jpg
+32.jpg
+36.jpg
+39.jpg
+40.jpg
+41.jpg
+42.jpg
+44.jpg
+45.jpg
+47.jpg
+52.jpg
+59.jpg
