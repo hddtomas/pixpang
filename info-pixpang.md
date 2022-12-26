@@ -79,7 +79,7 @@ Aquí una lista de bugs en la 2.0 que yo conozco.
 3. En el nivel 15, el juego se puede crashear. Asegurate de guardar tu partida antes. 
 4. Hay veces que las partidas no se guardan, en vez de eso, el juego se crashea.
 5. Hay veces que al cargar una partida, el juego se crashea. (Esto no pasa más de una vez)
-6. Jugar por mucho tiempo puede causar que los niveles carguen mal y la partida no se guarden correctamente. (Esto pasa cuando se deja un nivel pausado por demasiado tiempo, y con demasiado tiempo me refiero a más de 2 horas) 
+6. Jugar por mucho tiempo puede causar que los niveles carguen mal y la partida no se guarde correctamente. (Esto pasa cuando se deja un nivel pausado por demasiado tiempo, y con demasiado tiempo me refiero a más de 2 horas) 
 
 # Bugs de la 1.6 beta
 1. Al elegir un segundo jugador como computadora y después poner que no queremos a un segundo jugador, el juego lo tomara como que queremos un segundo jugador como computadora (solo pasa especificamente al elegir la computadora).
@@ -92,8 +92,7 @@ Que yo sepa estas versiones son imposibles de conseguir.
 Es muy fácil, simplemente conecta un joystick generico y listo, ve a new game y te pondra la elección de 1 jugador o 2 jugadores.
 
 # Personajes navideños
-En PiX Pang 2.0 y PiX Pang 2.1, el 24 y 25 de diciembre se activan lo que serían los personajes navideños. Esto aplica para PiX y PuX.
-En versiones anteriores no he visto personajes clásicos con un modo clásico (ejem: 1.6a).
+En PiX Pang 2.0 y PiX Pang 2.1, el 24 de diciembre se activa un modo especial, que si no me equivoco, dura hasta los primeros días de enero.
 
 # Tiempo bala | Ancla (Curiosidad)
 Resulta que el sonido de este poder esta generado por la boca de panreyes + edición de audio.
@@ -105,6 +104,7 @@ Hoy (27/12/2021) he encontrado un archive de una versión de PiX Pang en PSP.
 https://archive.org/details/pix-pang-22.7z
 
 (13/11/2022) Hasta el día de hoy no lo he probado, cuando tenga tiempo (mediados de diciembre probablemente) voy a probar esta versión junto a la de Dreamcast. 
+(26/12/2022) Ya lo he probado, resulta ser lo mismo que el port de Dreamcast solo que tiene unos drops de FPS terribles.
 
 # Modo Debug en PiX Pang 2.0
 Hay un modo debug que se activa pulsando las siguientes teclas:
@@ -122,7 +122,8 @@ Este port sinceramente está muy bugeado y no tiene muchas cosas, pero es jugabl
 
 Hace unos años (7 años apróximadamente) fue lanzado un port a la Dreamcast pero esta vez fue porteado con BennuGD, la noticia está aca:
 https://dreamcast-news.blogspot.com/2015/08/pixpang-v22.html?spref=tw
-(Abajo de todo se puede descargar el port, no lo he probado todavía asi que no puedo asegurar de que funciona)
+
+(26/12/2022: Ya he probado este port, es lo mismo solo que es mas estable, pero sigue teniendo la misma jugabilidad)
 
 # Final de PiX Pang
 El final está inspirado en un anime llamado Chobits:
