@@ -1,6 +1,6 @@
 # Ubicaciones (y en algunos muy pocos casos, origenes) de los fondos de PiX Pang
 
-Info: Esta busqueda empezó hace un tiempo ya (1 año) pero termine perdiendo el txt con toda la información y eso me desmotivó demasiado, hasta que recientemente (14/09/22) se siguió la busqueda.
+Info: Esta busqueda empezó hace un tiempo ya (1 año, en el 2021) pero termine perdiendo el txt con toda la información y eso me desmotivó demasiado, hasta que recientemente (14/09/22) se siguió la busqueda.
 
 ![19](https://user-images.githubusercontent.com/78988582/190262990-b155028f-851a-4fac-9257-23718c1f6fc4.jpg)
 
