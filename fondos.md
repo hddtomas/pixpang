@@ -101,7 +101,8 @@ Dreaming | Raúl Garcia Pintor 2004 (https://proyector.info/profile/raul-garcia/
 
 ![34](https://user-images.githubusercontent.com/78988582/190264478-8a022c10-c7ff-460a-ba47-02c4adeba0b2.jpg)
 
-Proviene de Domain2049.
+Proviene de Domain2049. (De hecho, esta imagen proviene de un mod de Unreal Tournament, el mod es del año 2005: https://www.moddb.com/mods/domain2049)
+Aun así, el origen de la primera imagen es desconocida.
 
 ![33](https://user-images.githubusercontent.com/78988582/190264517-83e71544-328c-49e3-ba08-421b3b5f8806.jpg)
 
