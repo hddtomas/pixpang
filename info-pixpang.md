@@ -1,8 +1,10 @@
 En este archivo, encontraras información sobre PiX Pang.
 
 # Acceder a los archivos de la 2.1 (solo Windows)
-Como ya sabran, en PiX Pang 2.1, en vez de venir con una carpeta con todos los archivos del juego y un ejecutable, simplemente viene un ejecutable, que aunque es una opción muy portable, se vuelve díficil obtener algún recurso del juego.
+Como ya sabran (o tal vez no), en PiX Pang 2.1, en vez de venir con una carpeta con todos los archivos del juego y un ejecutable, simplemente viene un solo ejecutable que al abrirlo descomprime el juego, aunque es una opción muy portable, se vuelve difícil obtener algún recurso del juego.
 Para acceder a los archivos de la versión 2.1, se debe abrir el juego y luego ir al administrador de tareas, ir a la sección detalles y buscar pixpang.exe, le damos click derecho y luego "Abrir ubicación del archivo", una vez hecho todo eso, ya estaremos en la carpeta del juego, la cual esta ubicada en una parte de la carpeta %temp% de Windows.
+
+(También pueden buscar en la carpeta %temp%, pero da flojera sinceramente)
 
 # Páginas web anterior al pixjuegos.com que conocemos hoy en día:
 Esta es la lista de páginas donde se almacenaban archivos y información de PiX Pang:
