@@ -1,13 +1,12 @@
 # Ubicaciones (y en algunos muy pocos casos, origenes) de los fondos de PiX Pang
 
-Info: Esta busqueda empezó hace un tiempo ya (1 año, en el 2021) pero termine perdiendo el txt con toda la información y eso me desmotivó demasiado, hasta que recientemente (14/09/22) se siguió la busqueda.
+Info: Esta busqueda empezó hace un tiempo ya (2 años, en el 2021) pero termine perdiendo el txt con toda la información y eso me desmotivó demasiado, hasta que recientemente (14/09/22) se siguió la busqueda.
 
 ![1](https://user-images.githubusercontent.com/78988582/209725293-b0a840c8-fac7-4f13-ab31-fa1fbcb4dc28.jpg)
 
-Finalmente, después de tanto tiempo, lo he encontrado.
 Ubicado en: Avenida Manuel Mena Palma,, Benalmádena, España, 29630
 Se puede encontrar una foto muy similar (casi igual, solo que con algunas diferencias, pero bueno, la foto es de hace como más de 15 años)
-Aca se puede encontrar una foto donde aparece la ubicación: https://avenida-manuel-mena-palma-apartment-benalmadena.hotelmix.es/
+Aca se puede encontrar una foto donde aparece la ubicación: https://avenida-manuel-mena-palma-apartment-benalmadena.hotelmix.es/ ([Imagen exacta]([url](https://avenida-manuel-mena-palma-apartment-benalmadena.hotelmix.es/data/Photos/r1920x761/3498/349881/349881253/Avenida-Manuel-Mena-Palma-Apartment-Benalmadena-Exterior.JPEG)))
 
 Aunque sinceramente dudo que sea parte del hotel, pero está cerca.
 
