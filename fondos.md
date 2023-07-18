@@ -6,7 +6,7 @@ Info: Esta busqueda empezó hace un tiempo ya (2 años, en el 2021) pero termine
 
 Ubicado en: Avenida Manuel Mena Palma,, Benalmádena, España, 29630
 Se puede encontrar una foto muy similar (casi igual, solo que con algunas diferencias, pero bueno, la foto es de hace como más de 15 años)
-Aca se puede encontrar una foto donde aparece la ubicación: https://avenida-manuel-mena-palma-apartment-benalmadena.hotelmix.es/ [Imagen exacta]([url](https://avenida-manuel-mena-palma-apartment-benalmadena.hotelmix.es/data/Photos/r1920x761/3498/349881/349881253/Avenida-Manuel-Mena-Palma-Apartment-Benalmadena-Exterior.JPEG))
+Aca se puede encontrar una foto donde aparece la ubicación: https://avenida-manuel-mena-palma-apartment-benalmadena.hotelmix.es/ [Imagen exacta]([https://avenida-manuel-mena-palma-apartment-benalmadena.hotelmix.es/data/Photos/r1920x761/3498/349881/349881253/Avenida-Manuel-Mena-Palma-Apartment-Benalmadena-Exterior.JPEG])
 
 Aunque sinceramente dudo que sea parte del hotel, pero está cerca.
 
