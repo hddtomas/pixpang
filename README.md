@@ -1,17 +1,23 @@
 ![](https://img.shields.io/github/downloads/tomiiiiiiiii/pixpang/total) ![](https://img.shields.io/github/last-commit/tomiiiiiiiii/pixpang) ![](https://img.shields.io/github/release-date/tomiiiiiiiii/pixpang)
 
-Bienvenido al repositorio sobre el juego PiX Pang!
+# ¡Bienvenido al repositorio sobre el juego PiX Pang!
 
-En este repositorio, lo que hare es acumular versiones y información del juego.
+En este repositorio, lo que haré es acumular versiones, información y otras cosas interesantes del juego PiX Pang. Podríamos decir, que este es un archive del juego.
 
-**QUIERO ACLARAR QUE ESTE NO ES MI JUEGO.** Por favor, si te gusta, dale apoyo a pixjuegos.com o a panreyes y a los demás desarrolladores de PiX Pang, no a mi, yo solo estoy buscando versiones y brindando información. **Gracias**.
+**QUIERO ACLARAR QUE ESTE NO ES MI JUEGO.** 
+Si te gusta, dale apoyo a pixjuegos.com o a panreyes y a los demás desarrolladores de PiX Pang, no a mi, yo solo brindo información y algunas versiones antiguas del juego. 
+**Gracias**.
 
-Otra cosa, ya revisé todo lo de PiX Pang (ya para mi, encontrar nueva información es imposible), solo me faltan documentar algunas cosas que encontre, que creo que lo haré dentro de poco.
+# Futuro contenido en este archive
+Ya revisé todo lo de PiX Pang (ya para mi, encontrar nueva información es imposible, o eso creo, aunque debería tomarme un día para busar información), solo me faltan documentar algunas cosas que encontre.
 
-Por ahora seguire buscando el origen de los fondos de PiX Pang.
+El origen de los fondos de PiX Pang podría ser considerado terminado, ya que hay fondos de los que no se sabe nada, que lamentablemente son la gran mayoría. 
 
-# PiX Pang 2.1 (el que esta en pixjuegos.com en la actualidad)
-Esta es la ultima versión de PiX Pang, que se puede conseguir en la página de PiX Juegos, a diferencia de la 2.0, esta versión contiene muchas menos cosas que la 2.0 y se desconoce el motivo de porque (la jugabilidad sigue siendo la misma, solo que hay menos modos), así que si buscas algo que divierta un poco más y te asegure al menos 20 minutos de juego más, ve por la 2.0.
+# PiX Pang 2.1 (Última versión)
+Esta es la ultima versión de PiX Pang, que se puede conseguir en la [página de PiX Juegos](http://pixjuegos.com "página de PiX Juegos"). 
+
+A diferencia de la 2.0, esta versión contiene menos cosas que la 2.0 y se desconoce el motivo de porque (la jugabilidad sigue siendo la misma, solo que hay menos modos, por ejemplo, ya no existe el safari mode ni el editor de niveles).
+
 Esta versión está compilada en BennuGD (Build de 2012), además de que es compatible con sistemas operativos Windows Vista y superiores (hasta Windows 11). 
 
 También quiero aclarar que esta versión contiene un modo de 2 jugadores, que es por joystick. Lo bueno de esto es que no hay que usar programas externos para configurar el joystick, ya que el juego lo configura automaticamente.
@@ -21,52 +27,57 @@ Playtime promedio: **3 - 4 horas** probando los 2 modos.
 # PiX Pang 2.1 (Móbil)
 
 Esta versión está disponible solo para Android (una versión muy antigua), además es la misma versión que está (o estaba) disponible en la consola Ouya, solo que en Ouya tiene mayor resolución y algunos cambios gráficos.
-No recomiendo jugarlo pues es una versión muy reducida y muy aburrida, y la jugabilidad es un poco complicada para un móbil, además no esta diseñada para mobiles modernos y **puede no funcionar**.
 
-Playtime promedio: no lo he probado mucho.
+No recomiendo jugarlo pues es una versión muy reducida, y los controles son muy complicados para un móbil, además no esta diseñada para móbiles modernos y **puede no funcionar**.
 
-# PiX Pang 2.1 (2010)
+Playtime promedio: lo he jugado muy poco, no sé si tiene todos los niveles. 
 
-Esta versión es igual a la 2.1 solo que no tiene ningún fondo y además que esta compilado en Fenix 0.93.
-También está en español, mientrás que la última versión está en inglés.
+# PiX Pang 2.1 (Versión del 2010)
 
-**(Algo me dice que esta versión fue compilada por error)**
+Esta versión es igual a la 2.1 del 2012, solo que no tiene ningún fondo y además que esta compilado en Fenix 0.93.
+También el juego está en español, mientrás que la última versión está en inglés.
+
+Lo más probable es que haya sido compilado por error.
 
 Playtime promedio: mismo playtime que la 2.1 actual.
+
+# PiX Super Pang
+Esta versión es un mod, pero lo pongo aca porque se podía descargar en la página (usando wayback machine, claro), la versión de este mod es la 2.0.
+Playtime promedio: **2 - 3 horas** (la verdad no lo he probado mucho porque me aburria xD)
 
 # PiX Pang 2.0
 Esta versión contiene el viejo menú (que es mucho mejor que el de la 2.1), el Safari Mode, el editor de niveles (Custom mode) y posibilidad de jugar con un amigo sin necesidad de joystick (y también se puede jugar con un bot). Esta versión fue compilada en Fenix 0.84b, lo cual significa que solo tiene soporte para Windows XP y otros sistemas operativos inferiores. 
 
 Lo que recomiendo hacer para jugarlo es montar una máquina virtual en VMWare Workstation, después instalarlo y bueno, todo lo demás no es necesario explicarlo.
-Y si quieres pasar a algo mas difícil, puedes montar una máquina virtual con Ubuntu, instalar Wine y jugarlo desde ahí (Sí, anda que digamos mas o menos perfecto) 
 
-Playtime promedio: **3 - 5 horas** probando todos los modos.
+Tambén se puede montar una máquina virtual con Ubuntu, instalar Wine y jugarlo desde ahí, aunque tiene algunos drops de fps.
+
+Playtime promedio: **4 - 6 horas** probando todos los modos.
 
 
 # PiX Pang 1.6d
 A diferencia de PiX Pang 1.6b y 1.6c, ya tiene los fondos y los gráficos que conocemos hoy en día, pero sigue siendo un poco distinto a la 2.0
 La intro y la música del menú ya son diferentes (las que conocemos hoy en día).
+
 (Que yo sepa esta es la última build de la 1.6, aunque lo más probable es que exista una release final de la 1.6)
 
-Playtime promedio: **3 - 6 horas** probando todos los modos
+Playtime promedio: **4 - 6 horas** probando todos los modos
 
 # PiX Pang 1.6c
 Esta versión ya dispone de los personajes actuales, además tiene 2 jefes, nuevos items y guardado y cargado de partidas, así que ya no te debes preocupar de perder una partida.
 El changelog está en el release, esta versión dispone de un instalador por lo cual no es necesario tener que compilar el juego.
 
-Playtime promedio: **3 - 5 horas** probando todos los modos.
+Playtime promedio: **4 - 5 horas** probando todos los modos.
 
 # PiX Pang 1.6b
 Esta versión es antigua, contiene todo los gráficos y fondos viejos, además también tiene la música de Super Pang (de la PS1 si no me equivoco...).
-No tiene jefes, pero tiene niveles con diseños distintos, y tiene una dificultad enorme porque la hitbox es muy diferente a la 2.0 y 2.1, así que si buscas algo nuevo, pasate por esta versión, eso si, no hay cargado ni guardado de partidas, así que si tienes que apagar o cerrar el juego por algún motivo, **toda tu partida será perdida.**
+No tiene jefes, pero tiene niveles con diseños distintos, y tiene una enorme dificultad porque la hitbox es muy diferente a la 2.0 y 2.1, así que si buscas algo nuevo, pasate por esta versión, eso si, no hay cargado ni guardado de partidas, así que si tienes que apagar o cerrar el juego por algún motivo, **toda tu partida será perdida.**
 
 Podría decir que esta versión es estable, porque apenas he encontrado bugs.
 
-Playtime promedio: **3 - 5 horas** probando todos los modos.
+Playtime promedio: **6 - 7 horas** probando todos los modos.
 
-# PiX Super Pang
-Esta versión es un mod, pero lo pongo aca porque se podía descargar en la página (usando wayback machine, claro), la versión de este mod es la 2.0.
-Playtime promedio: **1 - 2 horas** (la verdad no lo he probado mucho porque me aburria xD)
+La gran cantidad se debe a la enorme dificultad que tiene el juego.
 
 # PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.6
 (injugable por el momento, ni se que paso, pero ya no anda en Windows XP ni en mi pc)
@@ -74,4 +85,4 @@ Playtime promedio: **1 - 2 horas** (la verdad no lo he probado mucho porque me a
 
 Supongo que es una versión vieja y no un juego extra, ya que está muy poco desarrollado, además tiene sprites y sonidos de Super Pang.
 
-Playtime promedio: **1 - 2 horas** probando todos los modos.
+Playtime promedio: **2 - 3 horas** probando todos los modos.
