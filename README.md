@@ -81,6 +81,11 @@ Playtime promedio: **6 - 7 horas** probando todos los modos.
 
 La gran cantidad se debe a la enorme dificultad que tiene el juego.
 
+# PiX Pang v?
+Esta versión es desconocida, pero voy a suponer que es superior a la 0.6
+
+No tiene mucho, aunque en los archivos tiene cosas bastante interesante xD
+
 # PiX Pang 0.6 / PiX Pang! Panic & Tour Demo 0.6
 (injugable por el momento, ni se que paso, pero ya no anda en Windows XP ni en mi pc)
 **Para correr esta versión necesitas Windows XP, como en la 2.0**
