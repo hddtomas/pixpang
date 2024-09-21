@@ -88,7 +88,8 @@ Aquí una lista de bugs en la 2.0 que yo conozco.
 
 # Versiones que SI existen pero no sabemos si existen descargas.
 PiX Pang 1.5 y PiX Pang 1.4
-Que yo sepa estas versiones son imposibles de conseguir.
+
+Que yo sepa, estas versiones son imposibles de conseguir.
 
 # Jugar PiX Pang 2.1 con 2 jugadores
 Es muy fácil, simplemente conecta un joystick generico y listo, ve a new game y te pondra la elección de 1 jugador o 2 jugadores.
