@@ -1,3 +1,7 @@
+# PÁGINA WEB EN DESARROLLO
+
+En un futuro, todo el contenido de este repositorio se pasará a (esta página)[https://hddtomas.github.io/pixpang_pag/].
+
 # Aclaración
 
 Quiero aclarar que soy el mismo user que creó originalmente el repositorio, lamentablemente perdí la cuenta y no pude seguir xD
