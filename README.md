@@ -1,6 +1,6 @@
 # PÁGINA WEB EN DESARROLLO
 
-En un futuro, todo el contenido de este repositorio se pasará a (esta página)[https://hddtomas.github.io/pixpang_pag/].
+En un futuro, todo el contenido de este repositorio se pasará a [esta página](https://hddtomas.github.io/pixpang_pag/).
 
 # Aclaración
 
