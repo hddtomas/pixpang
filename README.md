@@ -6,6 +6,9 @@ Si desea algo más visual, puede pasarse por [esta página web](https://hddtomas
 
 Respecto a las futuras actualizaciones de este archive: Por el momento **NO EXISTE** (o es muy difícil de encontrar) más versiones de este juego, por lo que es muy poco probable que actualice este archive.
 
+
+
+
 ## PiX Pang 2.1 (2012)
 Esta es la última versión de PiX Pang, que se puede conseguir en la [página de PiX Juegos](http://pixjuegos.com "página de PiX Juegos"). 
 A diferencia de la 2.0, esta versión contiene menos características que la 2.0, se desconoce el motivo del por qué.
